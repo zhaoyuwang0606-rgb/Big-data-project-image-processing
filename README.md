@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains the code, analysis, and diagnostic tools for a LEGO minifigure image classification project. The task is to classify web-scraped LEGO minifigure images into the 30 most frequent categories using deep learning, multimodal feature fusion, ensemble learning, and error diagnostics.
+This repository contains the code, analysis, and diagnostic tools for a LEGO minifigure image classification project. The task is to classify web-scraped LEGO minifigure images into the 30 most frequent categories.
 
-The project does not only focus on improving predictive performance. It also investigates why certain classes are difficult to classify. In particular, the diagnostic analysis suggests that many remaining misclassifications are associated with semantic ambiguity, visually overlapping LEGO themes, and potential label noise in the official LEGO commercial taxonomy.
+The project does not only focus on improving predictive performance. It also investigates why certain classes are difficult to classify. In particular, the diagnostic analysis suggests that many remaining errors are attributable to overlapping commercial categories, visually similar minifigure designs, and potential label noise in the original dataset.
 
 
 ## Repository Structure
@@ -25,7 +25,7 @@ The repository is organized chronologically to reflect the main research pipelin
 
 ## Dataset
 
-The dataset consists of web-scraped LEGO minifigure images and accompanying metadata. The metadata includes information such as minifigure identifiers, release year, estimated value, and commercial category labels.
+The dataset consists of web-scraped LEGO minifigure images and accompanying metadata. The metadata includes information such as minifigure identifiers, release year, estimated value, and commercial categories.
 
 The classification task is restricted to the top 30 most frequent categories in order to reduce the extreme long-tail structure of the original dataset while keeping the task sufficiently challenging.
 
@@ -40,9 +40,9 @@ The dataset contains several sources of classification difficulty:
 
 The raw image dataset (images/), large embedding files (.npz), and trained model weights (.pt) are not included in this GitHub repository due to file size constraints.
 
-As a result, cloning this repository alone is not sufficient to reproduce the full pipeline from scratch. Full execution requires access to the original dataset or a reconstructed version following the documented data collection and preprocessing steps.
+As a result, cloning this repository alone is not sufficient to reproduce the full pipeline from scratch. Full execution requires access to the original dataset or a reconstructed version following the original web-scraping methodology.
 
-However, the repository includes the source code, methodology, model configuration, evaluation scripts, diagnostic tools, and reported results. Therefore, the workflow and analytical procedure remain documented and reproducible once the required data files are available.
+However, the repository includes the source code, methodology, model configuration, evaluation scripts, diagnostic tools, and reported results. Therefore, the workflow and analytical procedure remain fully transparent and reproducible in principle.
 
 ## Methodology
 
@@ -90,7 +90,7 @@ These embeddings were combined with selected metadata features and classified us
 
 ### Ensemble Model
 
-The final ensemble combines predictions from several base and embedding-based models using validation-optimized weights. The ensemble is designed to reduce dependence on a single model architecture and improve robustness across visually diverse classes.
+The final ensemble combines predictions from several base and embedding-based models using validation-optimized weights. The ensemble is designed to reduce dependence on a single model architecture and leverage complementary prediction strengths.
 
 ## Evaluation
 
@@ -108,14 +108,14 @@ Macro-F1 is emphasized because the classification task contains class imbalance 
 
 The final weighted ensemble achieved approximately:
 
-- Test accuracy: 0.891
-- Test macro-F1: 0.856
+- **Test accuracy:** 0.891
+- **Test macro-F1:** 0.856
 
 The best performance was observed for visually distinctive categories, such as Minecraft, DUPLO, Fabuland, and NEXO KNIGHTS.
 
 Lower recall was observed for categories with stronger semantic or visual overlap, including NINJAGO-related categories, LEGO Brand, LEGO Ideas, and Holiday & Event.
 
-The diagnostic analysis suggests that many remaining errors are linked to overlapping commercial categories, ambiguous labels, and visually similar minifigure designs. Grad-CAM visualizations indicate that the models often focused on meaningful figure regions, such as the head, torso, legs, and accessories, rather than irrelevant background areas.
+The diagnostic analysis suggests that many remaining errors are linked to overlapping commercial categories, ambiguous labels, and visually similar minifigure designs. Grad-CAM visualizations indicate that the model attends to reasonable visual features, but disambiguation remains challenging even for human judgment in certain cases.
 
 ## How to Run
 
@@ -191,4 +191,3 @@ Full reproduction requires access to the original images, metadata, and in some 
 ## Author
 
 **Zhaoyu Wang**
-
