@@ -1,0 +1,15 @@
+{
+  "description": "Multimodal LEGO minifigure image classification with deep learning, metadata fusion, ensembles, and Grad-CAM diagnostics.",
+  "topics": [
+    "deep-learning",
+    "computer-vision",
+    "image-classification",
+    "pytorch",
+    "xgboost",
+    "ensemble-learning",
+    "multimodal-learning",
+    "grad-cam",
+    "error-analysis",
+    "lego"
+  ]
+}
