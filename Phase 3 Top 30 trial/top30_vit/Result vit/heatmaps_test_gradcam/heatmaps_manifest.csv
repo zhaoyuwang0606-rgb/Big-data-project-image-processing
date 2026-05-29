@@ -1,0 +1,17 @@
+minifig_number,image_path,true_idx,pred_idx,pred_conf,heatmap_path
+HP489,big-dataa/images/images/HP489.jpg,10,5,0.4924532473087311,../../../working/top30_resnet50_output/heatmaps_test_gradcam/HP489__true_10__pred_5__p_0.492.png
+BDP240,big-dataa/images/images/BDP240.jpg,1,19,0.3622640371322632,../../../working/top30_resnet50_output/heatmaps_test_gradcam/BDP240__true_1__pred_19__p_0.362.png
+90398PB006,big-dataa/images/images/90398PB006.jpg,25,24,0.4782533645629883,../../../working/top30_resnet50_output/heatmaps_test_gradcam/90398PB006__true_25__pred_24__p_0.478.png
+SP003NEW,big-dataa/images/images/SP003NEW.jpg,22,29,0.7160929441452026,../../../working/top30_resnet50_output/heatmaps_test_gradcam/SP003NEW__true_22__pred_29__p_0.716.png
+DP195,big-dataa/images/images/DP195.jpg,6,8,0.6792628169059753,../../../working/top30_resnet50_output/heatmaps_test_gradcam/DP195__true_6__pred_8__p_0.679.png
+HP565,big-dataa/images/images/HP565.jpg,10,15,0.6635745167732239,../../../working/top30_resnet50_output/heatmaps_test_gradcam/HP565__true_10__pred_15__p_0.664.png
+COL250,big-dataa/images/images/COL250.jpg,3,29,0.9102998375892639,../../../working/top30_resnet50_output/heatmaps_test_gradcam/COL250__true_3__pred_29__p_0.910.png
+SW1111,big-dataa/images/images/SW1111.jpg,24,16,0.5435591340065002,../../../working/top30_resnet50_output/heatmaps_test_gradcam/SW1111__true_24__pred_16__p_0.544.png
+SW0203,big-dataa/images/images/SW0203.jpg,24,24,0.806895911693573,../../../working/top30_resnet50_output/heatmaps_test_gradcam/SW0203__true_24__pred_24__p_0.807.png
+LOC069,big-dataa/images/images/LOC069.jpg,13,13,0.8370100855827332,../../../working/top30_resnet50_output/heatmaps_test_gradcam/LOC069__true_13__pred_13__p_0.837.png
+SH0248,big-dataa/images/images/SH0248.jpg,25,25,0.8975197076797485,../../../working/top30_resnet50_output/heatmaps_test_gradcam/SH0248__true_25__pred_25__p_0.898.png
+MIN161,big-dataa/images/images/MIN161.jpg,16,16,0.8599042892456055,../../../working/top30_resnet50_output/heatmaps_test_gradcam/MIN161__true_16__pred_16__p_0.860.png
+PI188,big-dataa/images/images/PI188.jpg,20,20,0.8558059334754944,../../../working/top30_resnet50_output/heatmaps_test_gradcam/PI188__true_20__pred_20__p_0.856.png
+SW0393,big-dataa/images/images/SW0393.jpg,24,24,0.686570942401886,../../../working/top30_resnet50_output/heatmaps_test_gradcam/SW0393__true_24__pred_24__p_0.687.png
+MAR0107,big-dataa/images/images/MAR0107.jpg,26,26,0.9017314910888672,../../../working/top30_resnet50_output/heatmaps_test_gradcam/MAR0107__true_26__pred_26__p_0.902.png
+MIN204,big-dataa/images/images/MIN204.jpg,16,16,0.8828827738761902,../../../working/top30_resnet50_output/heatmaps_test_gradcam/MIN204__true_16__pred_16__p_0.883.png

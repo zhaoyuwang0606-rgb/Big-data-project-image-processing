@@ -1,0 +1,19 @@
+=== 2026-03-21T01:11:24.419861+00:00 ===
+cwd: .
+command: python "Phase 2 spliting\phase2_split_and_checks.py" --metadata-json metadata.json --out-dir "Phase 2 spliting" --seed 25 --threshold 100 --other-label Other --train 0.7 --val 0.15 --test 0.15
+summary: {"out_json": "Phase 2 spliting\\split_metadata_threshold100_seed25_70_15_15.json", "stats_csv": "Phase 2 spliting\\split_stats_threshold100_seed25_70_15_15.csv", "ks_csv": "Phase 2 spliting\\per_category_ks_threshold100_seed25_70_15_15.csv", "bonferroni": {"m_tests": 196, "alpha_bonf": 0.00025510204081632655}, "kept_categories": 28, "grouped_categories": 29, "other_count": 2570, "total": 17362}
+outputs:
+- Phase 2 spliting\split_metadata_threshold100_seed25_70_15_15.json
+- Phase 2 spliting\split_metadata_threshold100_seed25_70_15_15_train.json
+- Phase 2 spliting\split_metadata_threshold100_seed25_70_15_15_val.json
+- Phase 2 spliting\split_metadata_threshold100_seed25_70_15_15_test.json
+- Phase 2 spliting\category_counts_grouped_threshold_100.csv
+- Phase 2 spliting\category_counts.csv
+- Phase 2 spliting\split_stats_threshold100_seed25_70_15_15.csv
+- Phase 2 spliting\per_category_ks_threshold100_seed25_70_15_15.csv
+- Phase 2 spliting\per_category_ks_threshold100_seed25_70_15_15_with_bonferroni.csv
+- Phase 2 spliting\dist_by_category_year.png
+- Phase 2 spliting\dist_by_category_year_released.png
+- Phase 2 spliting\dist_by_category_current_value_new_eur.png
+- Phase 2 spliting\dist_by_category_current_value_used_eur.png
+

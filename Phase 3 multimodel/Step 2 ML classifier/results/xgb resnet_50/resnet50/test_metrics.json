@@ -1,0 +1,7 @@
+{
+  "model": "resnet50",
+  "features_dim": 2051,
+  "test_accuracy": 0.7701098901098901,
+  "test_macro_f1": 0.6901233872236999,
+  "test_macro_auc": 0.97473750456491
+}

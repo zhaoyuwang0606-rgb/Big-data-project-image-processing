@@ -1,0 +1,24 @@
+{
+  "timestamp": "20260528_133514",
+  "best_weights": {
+    "DL_resnet50": 0.3,
+    "DL_vit_b_16": 0.1,
+    "DL_convnext_tiny": 0.15,
+    "XGB_resnet50": 0.15,
+    "XGB_vit_b_16": 0.0,
+    "XGB_convnext_tiny": 0.3
+  },
+  "val_best_macro_f1": 0.8463120998425901,
+  "train_metrics": {
+    "macro_f1": 0.999475393925149,
+    "accuracy": 0.9993310397553516
+  },
+  "val_metrics": {
+    "macro_f1": 0.8463120998425901,
+    "accuracy": 0.8604755495737999
+  },
+  "test_metrics": {
+    "macro_f1": 0.8379003565721687,
+    "accuracy": 0.867311072056239
+  }
+}

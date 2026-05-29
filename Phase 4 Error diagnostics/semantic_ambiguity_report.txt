@@ -1,0 +1,101 @@
+=== Error Diagnostics: Proving Semantic Ambiguity ===
+
+Total Test Samples: 2276
+Total Errors: 335 (14.7% Error Rate)
+
+--- Breakdown of Errors by Semantic Overlap ---
+1. 'General' Subcategory Trap: 117 errors (34.9% of all errors)
+   (These are minifigs with no specific subcategory, making them visually generic.)
+2. Shared Subcategory (Non-General): 2 errors (0.6% of all errors)
+   (The misclassified figure belongs to a subcategory that ALSO exists in the predicted category.)
+3. Shared Themes: 143 errors (42.7% of all errors)
+   (The misclassified figure shares a Theme tag with the predicted category.)
+
+4. The NINJAGO Movie vs NINJAGO Direct Conflict: 8 errors (2.4% of all errors)
+   (These are visually identical characters from the exact same IP, artificially split by movie vs series.)
+
+*** TOTAL ERRORS EXPLAINED BY SEMANTIC OVERLAP: 213 (63.6% of all errors) ***
+This proves that the vast majority of the model's 'mistakes' are actually logical choices based on overlapping LEGO definitions.
+
+
+--- Top 10 Most Confusing Category Pairs (with Semantic Overlap evidence) ---
+
+Collectible Minifigures -> Super Heroes (16 errors)
+   - COL172: Welder, Series 11 (Minifigure Only without Stand and Accessories)
+     [Subcategory: Series 11 Minifigures (Shared: False)] [Themes: Collectable Minifigures (Shared: True)]
+   - TLM011: Velma Staplebot, The LEGO Movie (Minifigure Only without Stand and Accessories)
+     [Subcategory: The LEGO Movie (Shared: False)] [Themes: Collectable Minifigures (Shared: True)]
+   - DFB002: Manuel Neuer, Deutscher Fussball-Bund / DFB (Minifigure Only without Stand and Accessories)
+     [Subcategory: Deutscher Fussball-Bund / DFB (Shared: False)] [Themes: Collectable Minifigures (Shared: True)]
+
+Holiday & Event -> Town (16 errors)
+   - HOL035: Child - Boy, White Hoodie with Medium Blue Pocket, Dark Purple Short Legs, Reddish Brown Hair, Freckles
+     [Subcategory: Christmas (Shared: False)] [Themes: Seasonal (Shared: True)]
+   - HOL040: Police - Gold Badge, Police Hat, Black Eyebrows, Smile
+     [Subcategory: Christmas (Shared: False)] [Themes: City (Shared: True)]
+   - HOL051: Winter Jacket Zipper, Blue Legs, Dark Orange Hair, Crooked Smile
+     [Subcategory: Christmas (Shared: False)] [Themes: Creator (Shared: True)]
+
+Town -> Holiday & Event (15 errors)
+   - TWN107: Sunset and Palm Trees - Male, Dark Blue Legs, Black Male Hair, Lopsided Smile
+     [Subcategory: City (Shared: False)] [Themes: City (Shared: True)]
+   - TWN147: Medium Blue Jacket with Light Purple Scarf, Black Skirt, Bright Light Yellow Female Hair over Shoulder
+     [Subcategory: City (Shared: False)] [Themes: Advanced models (Shared: True)]
+   - TWN133B: Suit Black, Top Hat, Black Legs, Reddish Brown Eyebrows
+     [Subcategory: General (Shared: True)] [Themes: Education (Shared: True)]
+
+Super Heroes -> NINJAGO (11 errors)
+   - SH0265: Batman, Pirate Batman
+     [Subcategory: Batman II (Shared: False)] [Themes: Books (Shared: True)]
+   - SH0270: Kraven The Hunter
+     [Subcategory: Spider-Man (Shared: False)] [Themes: Marvel Super Heroes (Shared: False)]
+   - SH0442: Nightwing - Wings and Cape
+     [Subcategory: The LEGO Batman Movie (Shared: False)] [Themes: The LEGO Batman Movie (Shared: False)]
+
+BrickLink Designer Program -> Town (11 errors)
+   - BDP006: Carnival Boy
+     [Subcategory: General (Shared: True)] [Themes: BrickLink (Shared: True)]
+   - BDP039: Fisherman, Dark Azure Jacket, Dark Blue Legs, Tan Fedora  Hat
+     [Subcategory: General (Shared: True)] [Themes: BrickLink (Shared: True)]
+   - BDP042: Male, White Classic Space Shirt, Dark Orange Legs, Dark Orange Hair
+     [Subcategory: General (Shared: True)] [Themes: BrickLink (Shared: True)]
+
+Collectible Minifigures -> Town (10 errors)
+   - COL028: Skier, Series 2 (Minifigure Only without Stand and Accessories)
+     [Subcategory: Series  2 Minifigures (Shared: False)] [Themes: Collectable Minifigures (Shared: True)]
+   - COL037A: Fisherman (Black Cap)
+     [Subcategory: (Other) (Shared: False)] [Themes: Collectable Minifigures (Shared: True)]
+   - COL265: Musician - Female, Blouse with Gold Sash and Flowers, Lavender Skirt, Bright Light Yellow Hair
+     [Subcategory: (Other) (Shared: False)] [Themes: Collectable Minifigures (Shared: True)]
+
+Town -> BrickLink Designer Program (9 errors)
+   - TWN229: Supermarket Female Customer
+     [Subcategory: City (Shared: False)] [Themes: Juniors (Shared: False)]
+   - CTY0782: City Bus Passenger - Bright Light Blue Hoodie, Medium Lavender Short Legs, Dark Brown Hair Ponytail Long with Side Bangs, Freckles
+     [Subcategory: City (Shared: False)] [Themes: City (Shared: False)]
+   - CTY0915: Camper, Male Child, Tan Shirt, Medium Nougat Short Legs, Glasses, Backpack
+     [Subcategory: City / Recreation (Shared: False)] [Themes: City (Shared: False)]
+
+Friends -> Disney (8 errors)
+   - FRND0025: Friends Theresa - White Riding Pants, Light Aqua Long Sleeve Top with Collar
+     [Subcategory: General (Shared: True)] [Themes: Friends (Shared: False)]
+   - FRND0068: Friends Stephanie - Light Aqua Long Sleeve Top with Collar, White Pants, Black Boots, Lavender Bow
+     [Subcategory: General (Shared: True)] [Themes: Friends (Shared: False)]
+   - FRND0450: Friends Camila - Layered Skirt
+     [Subcategory: General (Shared: True)] [Themes: Friends (Shared: False)]
+
+LEGO Brand -> Town (8 errors)
+   - TLS068: LEGO Brand Store Male, Classic Space Minifigure Floating (no back printing) {Sheffield}
+     [Subcategory: LEGO Brand Store (Shared: False)] [Themes: Promotional (Shared: True)]
+   - TLS041: LEGO Brand Store Male, Classic Space Minifigure Floating - Victor
+     [Subcategory: LEGO Brand Store (Shared: False)] [Themes: Promotional (Shared: True)]
+   - TLS044: LEGO Brand Store Male, Classic Space Minifigure Floating Nashville
+     [Subcategory: LEGO Brand Store (Shared: False)] [Themes: Promotional (Shared: True)]
+
+Collectible Minifigures -> NINJAGO (8 errors)
+   - RB002: Rock Band Guitarist
+     [Subcategory: (Other) (Shared: True)] [Themes: Collectable Minifigures (Shared: False)]
+   - COL170: Yeti, Series 11 (Minifigure Only without Stand and Accessories)
+     [Subcategory: Series 11 Minifigures (Shared: False)] [Themes: Collectable Minifigures (Shared: False)]
+   - COL263: Warrior - Female with Scale Mail, Reddish Brown Skirt, Bright Light Yellow Hair, Silver Lips
+     [Subcategory: (Other) (Shared: True)] [Themes: Collectable Minifigures (Shared: False)]

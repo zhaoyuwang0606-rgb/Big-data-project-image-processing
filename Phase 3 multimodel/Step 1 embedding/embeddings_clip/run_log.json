@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-04-24T08:21:47.213475+00:00",
+  "command": "python Phase 3 multimodel\\Step 1 embedding\\extract_embeddings.py --image-root images\\images --model clip",
+  "args": {
+    "image_root": "images\\images",
+    "model": "clip",
+    "out_root": "Phase 3 multimodel/Step 1 embedding"
+  },
+  "cwd": "C:\\Users\\22984\\Desktop\\Leuven slide\\Big data\\Assigment 2"
+}

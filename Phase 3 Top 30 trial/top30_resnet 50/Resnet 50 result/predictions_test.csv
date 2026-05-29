@@ -1,0 +1,2277 @@
+split,minifig_number,true_label,pred_label
+test,DUPFIG028,DUPLO,DUPLO
+test,CAS082A,Castle,Castle
+test,CAS087A,Castle,Town
+test,CAS084A,Castle,Castle
+test,SP006,Space,Space
+test,PLN136,Town,Town
+test,PLN127,Town,Town
+test,PLN025,Town,Town
+test,PLN019,Town,Town
+test,TRN099,Town,Town
+test,CAS007,Castle,Castle
+test,CAS229,Castle,Castle
+test,CAS079,Castle,Castle
+test,FAB3F,Fabuland,Fabuland
+test,DUPFIG031,DUPLO,DUPLO
+test,DUPFIG026,DUPLO,DUPLO
+test,EXX003,Town,Town
+test,FAB4E,Fabuland,Fabuland
+test,FAB6D,Fabuland,Fabuland
+test,FAB7B,Fabuland,Fabuland
+test,JRED010,Town,Town
+test,TWN012,Town,Town
+test,BUT002,Town,Town
+test,BUT020,Town,Town
+test,TRN068,Town,Town
+test,FAB3C,Fabuland,Fabuland
+test,BUT034,Town,Town
+test,FAB7A,Fabuland,Fabuland
+test,FAB9F,Fabuland,Fabuland
+test,FAB14A,Fabuland,Fabuland
+test,FIREC008,Town,Town
+test,JRED009,Town,Town
+test,PLN101,Town,Town
+test,POST001,Town,Town
+test,JRED016,Town,Town
+test,CAS282,Castle,Castle
+test,SP003,Space,Space
+test,4555PB159,DUPLO,DUPLO
+test,FAB2B,Fabuland,Fabuland
+test,FAB11D,Fabuland,Fabuland
+test,TRN026,Town,Town
+test,CHEF012,Town,Town
+test,CAS111A,Castle,Castle
+test,DOC005,Town,Town
+test,DUPFIG022,DUPLO,DUPLO
+test,HOR002,Town,Town
+test,HOR027,Town,Town
+test,HOR029,Town,Town
+test,ZIP043,Town,Town
+test,ZIP040,Town,Town
+test,TRN025,Town,Town
+test,PLN075,Town,Town
+test,PLN001,Town,Town
+test,SHELL010,Town,Town
+test,BUT018,Town,Town
+test,CAS182,Castle,Town
+test,SP071,Space,Space
+test,CAS372,Castle,Castle
+test,DOC016,Town,Town
+test,4943PB003,DUPLO,DUPLO
+test,4555PB207,DUPLO,DUPLO
+test,PLN076,Town,Town
+test,PLN035,Town,Town
+test,CAS119A,Castle,Castle
+test,DOC003,Town,Town
+test,FAB2F,Fabuland,Fabuland
+test,FAB2J,Fabuland,Fabuland
+test,FAB8B,Fabuland,Fabuland
+test,SP016,Space,Space
+test,JRED001,Town,Town
+test,OVR004,Town,Town
+test,OVR009,Town,Town
+test,TRC003,Town,Town
+test,S004,Town,Town
+test,4555PB036,DUPLO,DUPLO
+test,4555PB036A,DUPLO,DUPLO
+test,FAB3H,Fabuland,Fabuland
+test,FAB7G,Fabuland,Fabuland
+test,CAS124,Castle,Castle
+test,SP013,Space,Space
+test,SP125,Space,Space
+test,HOR005,Town,Town
+test,ZIP004,Town,Town
+test,NCKLC001,Town,Town
+test,OVR010,Town,Town
+test,CAS154,Castle,Castle
+test,TRC001,Town,Town
+test,CAS240A,Castle,Castle
+test,CAS126,Castle,Castle
+test,SP050,Space,Space
+test,JRED008,Town,Town
+test,ZIP026,Town,Town
+test,ZIP013,Town,Town
+test,ZIP008,Town,Town
+test,ZIP006,Town,Town
+test,PI073,Pirates,Pirates
+test,PI040,Pirates,Pirates
+test,PLN111,Town,Town
+test,S009,Town,Town
+test,CAS172,Castle,Castle
+test,CAS170,Castle,Castle
+test,4943PB009,DUPLO,DUPLO
+test,4555PB032,DUPLO,DUPLO
+test,CAS138,Castle,Castle
+test,GEN002,Castle,Town
+test,NCKLC010,Town,Town
+test,NCKLC002,Town,Town
+test,OVR021,Town,Town
+test,PLN0010,Town,Town
+test,CAS161,Castle,Castle
+test,TRN251,Town,Town
+test,BOAT006,Town,Town
+test,2327PB24,DUPLO,DUPLO
+test,2327PB28,DUPLO,DUPLO
+test,4943PB004,DUPLO,DUPLO
+test,4943PB010,DUPLO,DUPLO
+test,4555PB172,DUPLO,DUPLO
+test,TRN038,Town,Town
+test,HOR023,Town,Town
+test,JRED024,Town,Town
+test,TRN008,Town,Town
+test,PI058,Pirates,Pirates
+test,PLN145,Town,Town
+test,PLN130,Town,Town
+test,BUT040,Town,Town
+test,4555PB014,DUPLO,DUPLO
+test,PAR026,Town,Town
+test,HOR022,Town,Town
+test,PI054,Pirates,Pirates
+test,PLN013,Town,Town
+test,PLN081,Town,Town
+test,PAR043,Town,Pirates
+test,PAR009,Town,Town
+test,PAR052,Town,Town
+test,CAS165A,Castle,Castle
+test,SP037,Space,Town
+test,CAS252,Castle,Castle
+test,S012,Town,Town
+test,S008,Town,Town
+test,CAS018,Castle,Castle
+test,4555PB010,DUPLO,DUPLO
+test,HOR025,Town,Town
+test,SP018,Space,Space
+test,JRED002,Town,Town
+test,PI031,Pirates,Pirates
+test,COP008,Town,Town
+test,PAR050,Town,Town
+test,CAS157,Castle,Castle
+test,AIR010A,Town,Town
+test,AIR008,Town,Town
+test,BELVFEMALE16,Belville,Belville
+test,2327PB31,DUPLO,Star Wars
+test,2327PB06,DUPLO,DUPLO
+test,4555PB084,DUPLO,DUPLO
+test,6453PB006,DUPLO,DUPLO
+test,6453PB027,DUPLO,DUPLO
+test,4555PB073,DUPLO,DUPLO
+test,4555PB039,DUPLO,DUPLO
+test,4555PB245,DUPLO,DUPLO
+test,FIREC009,Town,Town
+test,PI069,Pirates,Pirates
+test,PI079,Pirates,Pirates
+test,JBR006,Town,Town
+test,JBR012,Town,Town
+test,PCK002,Town,Town
+test,TRN090,Town,Town
+test,PLN195,Town,Town
+test,PLN041,Town,Town
+test,COP021,Town,Town
+test,SP048,Space,Space
+test,BELVFEMALE22,Belville,Belville
+test,4555PB012,DUPLO,DUPLO
+test,6453PB050,DUPLO,DUPLO
+test,4555PB261,DUPLO,DUPLO
+test,6453PB044,DUPLO,DUPLO
+test,6453PB018,DUPLO,DUPLO
+test,4555PB192,DUPLO,DUPLO
+test,4555PB077,DUPLO,DUPLO
+test,4555PB226,DUPLO,DUPLO
+test,4555PB244,DUPLO,DUPLO
+test,FIREC017,Town,Town
+test,SPLC001,Town,Town
+test,SPLC002,Town,Town
+test,SPLC006,Town,Town
+test,OCT029,Town,Town
+test,PI023,Pirates,Pirates
+test,JAIL002,Town,Town
+test,HOL006,Holiday & Event,Holiday & Event
+test,CAS158,Castle,Castle
+test,CAS160,Castle,Castle
+test,BELVFEMALE20,Belville,Belville
+test,BELVMALE09,Belville,Belville
+test,RES007,Town,Town
+test,4555PB003,DUPLO,DUPLO
+test,4555PB053,DUPLO,DUPLO
+test,4555PB027,DUPLO,DUPLO
+test,4555PB239,DUPLO,DUPLO
+test,TRN013,Town,Town
+test,PAR002,Town,Town
+test,TRN021,Town,Town
+test,OCT018,Town,Town
+test,OCT008,Town,Town
+test,OCT034,Town,Town
+test,PI013,Pirates,Pirates
+test,PI051,Pirates,Pirates
+test,TRN043,Town,Town
+test,RAC010,Town,Town
+test,BNK003,Town,Town
+test,BELVFEMALE69,Belville,Belville
+test,BELVFEMALE45,Belville,Belville
+test,BELVFEMALE35,Belville,Belville
+test,PAR003,Town,Town
+test,DIV026,Town,Town
+test,6453PB002,DUPLO,DUPLO
+test,4555PB035,DUPLO,DUPLO
+test,4555PB171,DUPLO,DUPLO
+test,FIREC013,Town,Town
+test,CAS027,Castle,Castle
+test,CAS030,Castle,Sports
+test,PI049,Pirates,Pirates
+test,PLN070,Town,Town
+test,PAR012,Town,Town
+test,CAS384,Castle,Castle
+test,TV001,Town,Town
+test,SP043,Space,Star Wars
+test,BELVFEMALE60,Belville,Belville
+test,BELVFEMALE70,Belville,Belville
+test,BELVMALE17,Belville,Belville
+test,CAR003,Town,Town
+test,DIV024,Town,Town
+test,31181PB03,DUPLO,DUPLO
+test,4555PB257,DUPLO,DUPLO
+test,EXT014,Town,Town
+test,SP032,Space,Space
+test,SP021,Space,Space
+test,SP025,Space,Space
+test,SP024,Space,Space
+test,JSTR004,Town,Town
+test,TRN015,Town,Town
+test,TRN085,Town,Town
+test,PLN093,Sports,Town
+test,PLN153,Town,Town
+test,COP036,Town,Town
+test,COP024,Town,Town
+test,RAC002,Town,Town
+test,RSQ014,Town,Town
+test,SOC058,Town,Town
+test,TRN031,Town,Town
+test,AIR025,Town,Town
+test,SW0001B,Star Wars,Star Wars
+test,SW0001A,Star Wars,Star Wars
+test,BELVFAIRY05,Belville,Belville
+test,BELVFAIRY10,Belville,Belville
+test,BELVFEMALE18,Belville,Belville
+test,CHEF006,Town,Town
+test,4555PB038,DUPLO,DUPLO
+test,AIRDG001,Town,Town
+test,SP020,Space,Space
+test,PCK007,Town,Town
+test,SW0018,Star Wars,Star Wars
+test,SW0021,Star Wars,Collectible Minifigures
+test,SW0037,Star Wars,Star Wars
+test,SW0039,Star Wars,Friends
+test,REP004,Town,Town
+test,SHELL007,Town,Town
+test,SPP015,Town,Town
+test,SPP007,Town,Town
+test,TWN025,Town,Town
+test,ARC002,Town,Town
+test,ARC007,Town,Town
+test,BELVFEMALE41,Belville,Belville
+test,BELVFEMALE49,Belville,Belville
+test,31231PB05,DUPLO,DUPLO
+test,4555PB138,DUPLO,DUPLO
+test,4555PB091,DUPLO,DUPLO
+test,FIRE002,Town,Town
+test,FIRE004,Town,Town
+test,SW0045,Star Wars,Star Wars
+test,CAS248,Castle,NINJAGO
+test,CAS046CM,Castle,Castle
+test,CAS202,Castle,Castle
+test,CAS037,Castle,Collectible Minifigures
+test,SW0022,Star Wars,Star Wars
+test,PLN095,Town,Sports
+test,PLN094,Town,Sports
+test,COP040,Town,Town
+test,RAC020,Town,Town
+test,TWN010,Town,Town
+test,HOL008,Holiday & Event,Holiday & Event
+test,SOC092,Sports,Sports
+test,SOC016,Sports,Sports
+test,SOC035,Sports,Sports
+test,SOC029,Sports,Sports
+test,SOC008,Sports,Sports
+test,SOC039,Sports,Sports
+test,SOC169,Sports,Sports
+test,PI002,Pirates,Pirates
+test,31310PB02,DUPLO,DUPLO
+test,31310PB04,DUPLO,DUPLO
+test,4555PB141,DUPLO,DUPLO
+test,4555PB202,DUPLO,DUPLO
+test,BTB006,DUPLO,DUPLO
+test,HP004,Harry Potter,Town
+test,LOM004,Space,Space
+test,LOM002,Space,Space
+test,TWN022,Town,Town
+test,HP010,Harry Potter,Harry Potter
+test,HP011,Harry Potter,Harry Potter
+test,SOC052,Sports,Town
+test,SW0038,Star Wars,Star Wars
+test,HP020,Harry Potter,Harry Potter
+test,6453PB034,DUPLO,DUPLO
+test,6453PB021,DUPLO,DUPLO
+test,4555PB072,DUPLO,DUPLO
+test,4555PB022,DUPLO,DUPLO
+test,4555PB081,DUPLO,DUPLO
+test,4555PB103,DUPLO,DUPLO
+test,SW0046,Star Wars,Star Wars
+test,SW0068,Star Wars,Star Wars
+test,CAS207,Castle,Castle
+test,SW0069,Star Wars,Star Wars
+test,PI199,Pirates,Pirates
+test,CC4456,Sports,Town
+test,SOC067,Sports,Sports
+test,SOC064,Sports,Sports
+test,SOC089,Sports,Sports
+test,SOC135,Sports,Sports
+test,CC4444,Sports,Sports
+test,CC4453,Sports,Sports
+test,CC4445,Sports,Sports
+test,SOC081,Sports,Sports
+test,SOC084,Sports,Sports
+test,SOC098,Sports,Sports
+test,SOC078,Sports,Sports
+test,NBA032,Sports,Sports
+test,NBA055,Sports,Sports
+test,46038,DUPLO,DUPLO
+test,4555PB178,DUPLO,DUPLO
+test,4555PB144,DUPLO,DUPLO
+test,SW0075,Star Wars,Star Wars
+test,SW0073,Star Wars,Minecraft
+test,SW0079,Star Wars,Star Wars
+test,NBA008,Sports,Sports
+test,NBA009,Sports,Sports
+test,NBA047,Sports,Sports
+test,NBA017,Sports,Sports
+test,NBA001,Sports,Sports
+test,NBA044A,Sports,Sports
+test,NBA026,Sports,Sports
+test,NBA046,Sports,Sports
+test,NBA022,Sports,Sports
+test,WC002,Town,Town
+test,WC006,Town,Town
+test,WC007,Town,Town
+test,SW0070,Star Wars,Town
+test,BELVFEMALE65,Belville,Belville
+test,WC017,Town,Town
+test,SW0012A,Star Wars,Star Wars
+test,HP053,Harry Potter,Harry Potter
+test,47205PB011,DUPLO,DUPLO
+test,47394PB039,DUPLO,DUPLO
+test,47394PB034,DUPLO,DUPLO
+test,SW0111,Star Wars,Star Wars
+test,HP041,Harry Potter,Harry Potter
+test,HP056A,Harry Potter,Harry Potter
+test,HKY001,Sports,Sports
+test,HKY002,Sports,Sports
+test,HKY005,Sports,Sports
+test,PAR056,Town,Town
+test,WC010,Town,Town
+test,CAS262,Castle,Castle
+test,CAS261,Castle,Castle
+test,CAS264,Castle,Star Wars
+test,NBA058,Sports,Sports
+test,HKY012,Sports,Sports
+test,HP061,Harry Potter,Harry Potter
+test,HP045,Harry Potter,Harry Potter
+test,SW0121,Star Wars,Star Wars
+test,SW0145,Star Wars,Star Wars
+test,SW0147,Star Wars,Town
+test,BTB005,DUPLO,Star Wars
+test,47394PB053,DUPLO,DUPLO
+test,47394PB063,DUPLO,DUPLO
+test,BTB009,DUPLO,DUPLO
+test,TMS09,DUPLO,DUPLO
+test,CTY0003,Town,Town
+test,CTY0026,Town,Town
+test,CAS269,Castle,Castle
+test,CAS276,Castle,Town
+test,HP067,Harry Potter,Harry Potter
+test,SW0135,Star Wars,Star Wars
+test,SW0137,Star Wars,Star Wars
+test,OCT048,Town,Town
+test,CTY0006,Town,Town
+test,WC026,Town,Town
+test,HOL003,Holiday & Event,Holiday & Event
+test,GEN176,Harry Potter,Friends
+test,GEN174,Harry Potter,Friends
+test,AIR034,Town,Town
+test,SW0150,Star Wars,Star Wars
+test,CAS307,Castle,Town
+test,CHEF014,Town,Town
+test,SW0149,Star Wars,Star Wars
+test,DOC021,Town,Town
+test,47394PB021,DUPLO,DUPLO
+test,47394PB017,DUPLO,DUPLO
+test,47394PB089,DUPLO,DUPLO
+test,TMS11,DUPLO,DUPLO
+test,CAS298,Castle,Castle
+test,CAS314,Castle,Castle
+test,CAS295,Castle,Castle
+test,CAS299,Castle,Castle
+test,TRN125,Town,Town
+test,OCT050,Town,Town
+test,OCT051,Town,Town
+test,AIR031,Town,Town
+test,SOC125,Sports,Sports
+test,COP050,Town,Town
+test,SW0085,Star Wars,Jurassic World
+test,RAC034,Town,Holiday & Event
+test,SW0032A,Star Wars,Star Wars
+test,SW0095,Star Wars,Star Wars
+test,BELVMALE19,Belville,Belville
+test,BOAT009,Town,Town
+test,CTY0034,Town,Town
+test,DOC032,Town,Town
+test,DOC033,Town,Town
+test,47205PB015,DUPLO,DUPLO
+test,47394PB114,DUPLO,DUPLO
+test,47394PB115,DUPLO,DUPLO
+test,47394PB106,DUPLO,DUPLO
+test,CAS332,Castle,Castle
+test,CAS340,Castle,Castle
+test,CAS338,Castle,Castle
+test,CAS346,Castle,Star Wars
+test,CTY0087,Town,Town
+test,CTY0090,Town,Town
+test,SW0179,Star Wars,Star Wars
+test,MM012,Space,Space
+test,SW0160,Star Wars,Star Wars
+test,SW0174,Star Wars,Star Wars
+test,OVR030,Town,Town
+test,CTY0213,Town,Town
+test,TRN141,Town,Town
+test,CTY0091,Town,NINJAGO
+test,SW0175,Star Wars,Star Wars
+test,TRN139,Town,Town
+test,SW0115,Star Wars,Star Wars
+test,PAR062,Town,Town
+test,PAR060,Town,Town
+test,SW0215,Star Wars,Star Wars
+test,BELVMALE20,Belville,Belville
+test,SW0203,Star Wars,Star Wars
+test,SW0191,Star Wars,Star Wars
+test,CTY0075,Town,Town
+test,CTY0071,Town,Town
+test,CTY0063,Town,Town
+test,CTY0111,Town,Town
+test,47394PB109,DUPLO,DUPLO
+test,CAS434,Castle,Castle
+test,CAS362,Castle,Castle
+test,CAS378,Castle,Collectible Minifigures
+test,CAS401,Castle,Castle
+test,CAS376,Castle,Star Wars
+test,CTY0891,Town,Town
+test,CTY0053,Town,Town
+test,SW0205,Star Wars,Star Wars
+test,SW0040B,Star Wars,Star Wars
+test,MM006,Space,Minecraft
+test,CTY0096,Town,Town
+test,TWN072,Town,Town
+test,TWN069,Town,Town
+test,PLN155,Town,Sports
+test,CTY0097,Town,Town
+test,SP085,Space,Town
+test,TWN071,Town,Town
+test,SW0255,Star Wars,Star Wars
+test,SW0095A,Star Wars,Star Wars
+test,TWN049,Town,Town
+test,CTY0151,Town,Town
+test,PI081,Pirates,Pirates
+test,SW0236,Star Wars,Star Wars
+test,SP003NEW,Space,Space
+test,SP006NEW,Space,Space
+test,CTY0132,Town,Town
+test,CTY0137,Town,Town
+test,TWN050,Town,Town
+test,SW0277,Star Wars,Star Wars
+test,DOC034,Town,Town
+test,47394PB121,DUPLO,DUPLO
+test,47394PB011B,DUPLO,DUPLO
+test,BTB007,DUPLO,DUPLO
+test,SW0239,Star Wars,Star Wars
+test,CAS422,Castle,Castle
+test,CAS409,Castle,Castle
+test,CAS424,Castle,DUPLO
+test,CTY0135,Town,Town
+test,TWN091,Town,Town
+test,CTY0138,Town,Town
+test,PI085,Pirates,Pirates
+test,PI089,Pirates,Pirates
+test,PI124,Pirates,Pirates
+test,PI122,Pirates,Pirates
+test,PI098,Pirates,Pirates
+test,PI088,Pirates,Pirates
+test,85863PB015,Games,Games
+test,85863PB016,Games,Games
+test,85863PB008,Games,Games
+test,OCT063,Town,Town
+test,OVR037,Town,Town
+test,PI127,Pirates,Pirates
+test,PI108,Pirates,Pirates
+test,PI083,Pirates,Pirates
+test,PI095,Pirates,Pirates
+test,GAME008,Games,Town
+test,CTY0156,Town,Town
+test,SW0085A,Star Wars,Star Wars
+test,CTY0129,Town,Town
+test,GEN020,Pirates,Castle
+test,SP091,Space,Town
+test,SP093,Space,Space
+test,SP095,Space,Space
+test,TWN087,Town,Town
+test,TWN089,Town,Town
+test,AIR045,Town,Town
+test,AIR044,Town,Town
+test,HP089,Harry Potter,Harry Potter
+test,TWN124,Town,Town
+test,SW0280,Star Wars,Star Wars
+test,COL002,Collectible Minifigures,Collectible Minifigures
+test,COL004,Collectible Minifigures,Collectible Minifigures
+test,CTY0187,Town,Town
+test,COL008,Collectible Minifigures,Collectible Minifigures
+test,HP115,Harry Potter,Harry Potter
+test,47394PB132,DUPLO,DUPLO
+test,CRS050,DUPLO,DUPLO
+test,CTY0056,Town,Town
+test,CAS122NEW,Castle,Castle
+test,HP090,Harry Potter,Harry Potter
+test,HP087,Harry Potter,Harry Potter
+test,HP094,Harry Potter,Harry Potter
+test,HP095,Harry Potter,Harry Potter
+test,SW0291,Star Wars,Star Wars
+test,SW0294,Star Wars,Star Wars
+test,SW0268,Star Wars,Star Wars
+test,CAS465,Castle,Castle
+test,CAS466,Castle,Castle
+test,CAS441,Castle,Castle
+test,CAS470,Castle,Castle
+test,COL017,Collectible Minifigures,Collectible Minifigures
+test,85863PB035,Games,Games
+test,85863PB038,Games,Games
+test,85863PB036,Games,Games
+test,85863PB024,Games,Games
+test,85863PB043,Games,Games
+test,85863PB029,Games,Games
+test,85863PB022,Games,Games
+test,COL011,Collectible Minifigures,Collectible Minifigures
+test,POST009,Town,Town
+test,HP093,Harry Potter,Harry Potter
+test,SW0271,Star Wars,Star Wars
+test,TWN114,Town,Town
+test,SP120,Town,Town
+test,COL006,Collectible Minifigures,Collectible Minifigures
+test,COL028,Collectible Minifigures,Town
+test,SP110,Space,Collectible Minifigures
+test,SP129,Space,NINJAGO
+test,TWN107,Town,Holiday & Event
+test,TWN121,Town,Holiday & Event
+test,TWN099,Town,Town
+test,SW0345,Star Wars,Star Wars
+test,AC016,Space,Space
+test,SW0327,Star Wars,Star Wars
+test,SW0313,Star Wars,Star Wars
+test,COL047,Collectible Minifigures,Collectible Minifigures
+test,SW0300,Star Wars,Star Wars
+test,CTY0224,Town,Town
+test,NJO0022,NINJAGO,NINJAGO
+test,COL077,Collectible Minifigures,Collectible Minifigures
+test,SW0321,Star Wars,Star Wars
+test,COL069,Collectible Minifigures,Collectible Minifigures
+test,NJO0005,NINJAGO,NINJAGO
+test,TWN131B,Town,Town
+test,SW0331,Star Wars,Star Wars
+test,NJO0006,NINJAGO,NINJAGO
+test,NJO0015,NINJAGO,NINJAGO
+test,SW0323,Star Wars,Star Wars
+test,SW0350,Star Wars,Star Wars
+test,DOC035B,Town,Town
+test,47394PB122,DUPLO,DUPLO
+test,47394PB143,DUPLO,DUPLO
+test,47205PB023,DUPLO,DUPLO
+test,47394PB139,DUPLO,DUPLO
+test,CRS056,DUPLO,DUPLO
+test,CRS055,DUPLO,DUPLO
+test,NJO0030,NINJAGO,NINJAGO
+test,HP132,Harry Potter,Harry Potter
+test,COL061,Collectible Minifigures,Collectible Minifigures
+test,SW0304,Star Wars,Star Wars
+test,NJO0009,NINJAGO,NINJAGO
+test,CAS488,Castle,Castle
+test,CAS482B,Castle,Castle
+test,NJO0029,NINJAGO,NINJAGO
+test,COL049,Collectible Minifigures,Holiday & Event
+test,TLS017,LEGO Brand,LEGO Brand
+test,TLS010,LEGO Brand,LEGO Brand
+test,TLS019,LEGO Brand,Town
+test,TLS018,LEGO Brand,LEGO Brand
+test,TLS023,LEGO Brand,LEGO Brand
+test,TLS013,LEGO Brand,LEGO Brand
+test,COL072,Collectible Minifigures,Town
+test,TWN147,Town,Holiday & Event
+test,85863PB067,Games,Games
+test,85863PB072,Games,Games
+test,85863PB054,Games,Games
+test,85863PB047,Games,Games
+test,SW0340,Star Wars,Star Wars
+test,HP126,Harry Potter,Harry Potter
+test,OCT056,Town,Town
+test,OCT055B,Town,Town
+test,CTY0232,Town,Town
+test,CTY0256,Town,Town
+test,CTY0228,Town,Town
+test,CTY0207,Town,Town
+test,CTY0199,Town,Town
+test,CTY0203,Town,Town
+test,CTY0201,Town,Town
+test,SW0308,Star Wars,Star Wars
+test,SW0309,Star Wars,Star Wars
+test,SP123,Town,Town
+test,COL038,Collectible Minifigures,Space
+test,CTY0223,Town,Town
+test,TWN133B,Town,Town
+test,COL043,Collectible Minifigures,Collectible Minifigures
+test,COL055,Collectible Minifigures,Collectible Minifigures
+test,CAS484,Castle,Town
+test,NJO0028,NINJAGO,Collectible Minifigures
+test,NJO0027,NINJAGO,Friends
+test,COL071,Collectible Minifigures,Collectible Minifigures
+test,SW0421,Star Wars,Star Wars
+test,SW0419,Star Wars,Star Wars
+test,SW0393,Star Wars,Star Wars
+test,SW0412,Star Wars,Star Wars
+test,SH0016A,Super Heroes,Super Heroes
+test,LOR030,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,SH0035,Super Heroes,Super Heroes
+test,SP001NEW,Space,Space
+test,LOR051,The Hobbit and The Lord of the Rings,Town
+test,SW0407,Star Wars,Star Wars
+test,SH0026,Super Heroes,Super Heroes
+test,LOR027,The Hobbit and The Lord of the Rings,LEGO Ideas
+test,47205PB024,DUPLO,DUPLO
+test,47394PB147,DUPLO,DUPLO
+test,47394PB161,DUPLO,DUPLO
+test,CRS028,DUPLO,DUPLO
+test,SW0368,Star Wars,Super Heroes
+test,TWN154,Town,Town
+test,CTY0286,Town,Collectible Minifigures
+test,COL037A,Collectible Minifigures,Town
+test,CTY0306,Town,Town
+test,CTY0273,Town,Town
+test,FRND0024,Friends,Friends
+test,FRND0001,Friends,Friends
+test,FRND0027,Friends,Friends
+test,FRND0016,Friends,Friends
+test,FRND0023,Friends,Friends
+test,FRND0025,Friends,Friends
+test,LOR013,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,LOR044,The Hobbit and The Lord of the Rings,Super Heroes
+test,SW0430,Star Wars,Super Mario
+test,CTY0318,Town,Town
+test,COL082,Collectible Minifigures,Collectible Minifigures
+test,SH0013,Super Heroes,Super Heroes
+test,SW0376,Star Wars,Star Wars
+test,SH0036,Super Heroes,Super Heroes
+test,NJO0047,NINJAGO,NINJAGO
+test,NJO0032,NINJAGO,NINJAGO
+test,LOR037,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,CAS507,Castle,Castle
+test,CAS512,Castle,Castle
+test,CAS511,Castle,Castle
+test,CAS514,Castle,Castle
+test,CAS500,Castle,Holiday & Event
+test,SW0398,Star Wars,Star Wars
+test,NJO0051,NINJAGO,NINJAGO
+test,TLS033,LEGO Brand,Collectible Minifigures
+test,TLS032,LEGO Brand,LEGO Brand
+test,TLS057,LEGO Brand,Town
+test,TLS061,LEGO Brand,Town
+test,TLS068,LEGO Brand,Town
+test,TLS041,LEGO Brand,Town
+test,TLS044,LEGO Brand,Town
+test,TLS047,LEGO Brand,LEGO Brand
+test,TLS053,LEGO Brand,Town
+test,TLS075,LEGO Brand,LEGO Brand
+test,SW0395,Star Wars,Star Wars
+test,SW0432,Star Wars,Star Wars
+test,CTY0262,Town,Town
+test,NJO0059,NINJAGO,NINJAGO
+test,85863PB091,Games,Games
+test,85863PB081,Games,Games
+test,85863PB075,Games,Games
+test,CTY0321,Town,Town
+test,CTY0289,Town,Town
+test,CTY0266,Town,Town
+test,NJO0060,NINJAGO,DREAMZzz
+test,SW0387,Star Wars,Super Heroes
+test,RB002,Collectible Minifigures,NINJAGO
+test,RB003,Collectible Minifigures,Collectible Minifigures
+test,COL090,Collectible Minifigures,Collectible Minifigures
+test,COL122,Collectible Minifigures,Holiday & Event
+test,NJO0045,NINJAGO,NINJAGO
+test,NJO0058,NINJAGO,NINJAGO
+test,TGB002,Collectible Minifigures,Collectible Minifigures
+test,TGB005,Collectible Minifigures,Collectible Minifigures
+test,SH0008,Super Heroes,Super Heroes
+test,SH0022,Super Heroes,Super Heroes
+test,LOR019,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,LOR008,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,HOL024,Holiday & Event,Holiday & Event
+test,CTY0328,Town,Town
+test,SH0004,Super Heroes,Super Heroes
+test,NJO0046,NINJAGO,NINJAGO
+test,NJO0053,NINJAGO,NINJAGO
+test,SW0452,Star Wars,Star Wars
+test,SW0512,Star Wars,Star Wars
+test,CTY0384,Town,Collectible Minifigures
+test,SH0064,Super Heroes,Super Heroes
+test,CTY0426,Town,Town
+test,SW0476,Star Wars,Star Wars
+test,PI142,Pirates,Pirates
+test,CAS525,Castle,Castle
+test,CAS529,Castle,Castle
+test,CAS527,Castle,Castle
+test,CHEF021,Town,LEGO Brand
+test,CTY0532,Town,LEGO Brand
+test,SH0083,Super Heroes,Collectible Minifigures
+test,SW0442,Star Wars,Star Wars
+test,SW0481,Star Wars,Star Wars
+test,SW0502,Star Wars,Star Wars
+test,CTY0414,Town,Town
+test,NJO0080,NINJAGO,NINJAGO
+test,COL177,Collectible Minifigures,Collectible Minifigures
+test,CTY0368,Town,Town
+test,LOC013,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOC022,LEGENDS OF CHIMA,NINJAGO
+test,COL130,Collectible Minifigures,Collectible Minifigures
+test,CTY0441,Town,Town
+test,SW0493,Star Wars,Star Wars
+test,CRS030,DUPLO,DUPLO
+test,CRS032,DUPLO,DUPLO
+test,47205PB029,DUPLO,DUPLO
+test,47394PB158,DUPLO,DUPLO
+test,47394PB162,DUPLO,DUPLO
+test,CRS033,DUPLO,DUPLO
+test,LOC010,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,CTY0342,Town,Town
+test,CTY0380,Town,Town
+test,CTY0350,Town,Town
+test,FRND0054,Friends,Friends
+test,FRND0040,Friends,Friends
+test,LOR062,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,LOR061,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,LOR073,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,COL176,Collectible Minifigures,Collectible Minifigures
+test,SH0138,Super Heroes,NINJAGO
+test,LOC040,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOR089,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,SW0457,Star Wars,Star Wars
+test,SH0072A,Super Heroes,Super Heroes
+test,COL138,Collectible Minifigures,Collectible Minifigures
+test,NJO0074,NINJAGO,NINJAGO
+test,LOC041,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOR086,The Hobbit and The Lord of the Rings,Super Heroes
+test,TLS070,LEGO Brand,LEGO Brand
+test,TLS083,LEGO Brand,LEGO Brand
+test,COL145,Collectible Minifigures,Collectible Minifigures
+test,SW0494,Star Wars,Star Wars
+test,HOL029,Holiday & Event,Holiday & Event
+test,CTY0443,Town,Holiday & Event
+test,85863PB108,Games,Games
+test,MIN006,Minecraft,Minecraft
+test,MIN004,Minecraft,Minecraft
+test,MIN005,Minecraft,Minecraft
+test,CTY0386,Town,Town
+test,SH0056,Super Heroes,Super Heroes
+test,SH0051,Super Heroes,Super Heroes
+test,TWN210,Town,Town
+test,CTY0428,Town,Town
+test,SH0068,Super Heroes,Star Wars
+test,TWN179,Town,Town
+test,CTY0392,Town,Town
+test,CTY0359,Town,Town
+test,CTY0362,Town,Town
+test,SW0435,Star Wars,LEGO Ideas
+test,TWN183,Town,Town
+test,SW0483,Star Wars,Star Wars
+test,SW0440,Star Wars,Star Wars
+test,LOR058,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,SW0443,Star Wars,Star Wars
+test,SW0499,Star Wars,Star Wars
+test,GEN047,Holiday & Event,BrickLink Designer Program
+test,HOL358,Holiday & Event,Holiday & Event
+test,NJO0082,NINJAGO,NINJAGO
+test,NJO0075,NINJAGO,NINJAGO
+test,CTY0423,Town,Town
+test,LOR083,The Hobbit and The Lord of the Rings,Star Wars
+test,SH0069,Super Heroes,Super Heroes
+test,LOC026,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOC008,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,COL172,Collectible Minifigures,Super Heroes
+test,LOC009,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,COL170,Collectible Minifigures,NINJAGO
+test,SW0446,Star Wars,Star Wars
+test,SW0542,Star Wars,Star Wars
+test,CTY0551,Town,Town
+test,CTY0491,Town,Town
+test,CTY0493,Town,Town
+test,CTY0553,Town,LEGO Brand
+test,DP001,Disney,Friends
+test,SW0581,Star Wars,Star Wars
+test,LOR100,The Hobbit and The Lord of the Rings,Harry Potter
+test,LOR094,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,SH0132,Super Heroes,Super Heroes
+test,SH0097,Super Heroes,Town
+test,CTY0471,Town,Town
+test,CTY0500,Town,Town
+test,CTY0460,Town,LEGO Ideas
+test,CAS539,Castle,Castle
+test,SW0532,Star Wars,Star Wars
+test,HOL037,Holiday & Event,Town
+test,HOL035,Holiday & Event,Town
+test,TWN208,Town,Town
+test,SW0523,Star Wars,Star Wars
+test,SW0522,Star Wars,Star Wars
+test,CON008,Town,Town
+test,LOC051,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,SW0586,Star Wars,Star Wars
+test,47394PB188,DUPLO,DUPLO
+test,47394PB147A,DUPLO,DUPLO
+test,SW0595,Star Wars,Star Wars
+test,SH0099,Super Heroes,Super Heroes
+test,CTY0470,Town,Town
+test,LOC110,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOC104,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOC105,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,FRND0066,Friends,Friends
+test,FRND0067,Friends,Friends
+test,FRND0089,Friends,Friends
+test,FRND0057A,Friends,Friends
+test,FRND0074,Friends,Friends
+test,FRND0085,Friends,Friends
+test,FRND0068,Friends,Friends
+test,FRND0058,Friends,Friends
+test,SW0562,Star Wars,Star Wars
+test,SH0108,Super Heroes,Super Heroes
+test,SW0583,Star Wars,Star Wars
+test,SW0582,Star Wars,Star Wars
+test,SW0521,Star Wars,Star Wars
+test,SH0093,Super Heroes,Town
+test,TWN199,Town,Town
+test,LOC097,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,LOC114,LEGENDS OF CHIMA,Super Heroes
+test,NJO0108,NINJAGO,NINJAGO
+test,LOC081,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,NJO0093,NINJAGO,NINJAGO
+test,NJO0100,NINJAGO,DUPLO
+test,SW0592,Star Wars,Star Wars
+test,COL192,Collectible Minifigures,Collectible Minifigures
+test,CTY0478,Town,Town
+test,CTY0454,Town,Town
+test,HOL040,Holiday & Event,Holiday & Event
+test,CTY0481,Town,Town
+test,SH0104,Super Heroes,Super Heroes
+test,CAS538,Castle,BrickLink Designer Program
+test,LOC090,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,COL190,Collectible Minifigures,Collectible Minifigures
+test,TLM007,Collectible Minifigures,Town
+test,LOC069,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,SH0115,Super Heroes,Super Heroes
+test,MIN009,Minecraft,Minecraft
+test,SW0546,Star Wars,Star Wars
+test,LOR106,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,TLM011,Collectible Minifigures,Collectible Minifigures
+test,TLM014,Collectible Minifigures,Collectible Minifigures
+test,HOL051,Holiday & Event,Town
+test,LOC100,LEGENDS OF CHIMA,NINJAGO
+test,TWN221,Town,Town
+test,SW0683,Star Wars,Star Wars
+test,CTY0561,Town,Friends
+test,NJO0130,NINJAGO,DUPLO
+test,SH0179,Super Heroes,Super Heroes
+test,NJO0174,NINJAGO,NINJAGO
+test,MIN022,Minecraft,Minecraft
+test,CTY0576,Town,Town
+test,COL203,Collectible Minifigures,Collectible Minifigures
+test,CHEF023,Town,Town
+test,PI176,Pirates,Pirates
+test,HOL058,Holiday & Event,Town
+test,NJO0112,NINJAGO,NINJAGO
+test,CTY0527,Town,Town
+test,LOC121,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,IDEA024,LEGO Ideas,Star Wars
+test,TWN217,Town,Town
+test,CTY0575,Town,Town
+test,SIM029,Collectible Minifigures,Collectible Minifigures
+test,SH0194,Super Heroes,Super Heroes
+test,JW015,Jurassic World,Town
+test,47205PB031,DUPLO,DUPLO
+test,47205PB034,DUPLO,DUPLO
+test,47394PB206,DUPLO,DUPLO
+test,47394PB208,DUPLO,DUPLO
+test,47394PB210,DUPLO,DUPLO
+test,47394PB182A,DUPLO,DUPLO
+test,47394PB183,DUPLO,DUPLO
+test,47394PB212,DUPLO,DUPLO
+test,NJO0134,NINJAGO,NINJAGO
+test,COL205,Collectible Minifigures,Town
+test,SW0670,Star Wars,Super Heroes
+test,FRND0133,Friends,Friends
+test,FRND0203,Friends,Friends
+test,FRND0134,Friends,Friends
+test,FRND0112,Friends,Friends
+test,FRND0110,Friends,Friends
+test,FRND0093,Friends,Friends
+test,FRND0100,Friends,Friends
+test,FRND0106,Friends,Friends
+test,FRND0104,Friends,Friends
+test,COL220,Collectible Minifigures,Collectible Minifigures
+test,NJO0144,NINJAGO,NINJAGO
+test,NJO0176,NINJAGO,NINJAGO
+test,TWN238,Town,Town
+test,SIM039,Collectible Minifigures,Collectible Minifigures
+test,SH0212,Super Heroes,Super Heroes
+test,LOC119,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,SW0617,Star Wars,Star Wars
+test,SW0632,Star Wars,Star Wars
+test,NJO0153,NINJAGO,NINJAGO
+test,SIM030,Collectible Minifigures,Collectible Minifigures
+test,LOC148,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,SH0183,Super Heroes,Star Wars
+test,SIM034,Collectible Minifigures,Collectible Minifigures
+test,LOC157,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,NJO0158,NINJAGO,NINJAGO
+test,NJO0163,NINJAGO,NINJAGO
+test,SW0638,Star Wars,Star Wars
+test,TWN232,Town,Town
+test,CTY0570,Town,Town
+test,IDEA015,LEGO Ideas,LEGO Ideas
+test,PI172,Pirates,Pirates
+test,PI147,Pirates,Town
+test,COL215,Collectible Minifigures,Collectible Minifigures
+test,NJO0164,NINJAGO,NINJAGO
+test,SH0180,Super Heroes,Super Heroes
+test,RAC058,Town,Town
+test,SW0677,Star Wars,Star Wars
+test,LOC125,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,CTY0602,Town,Town
+test,COL196,Collectible Minifigures,BrickLink Designer Program
+test,SH0188,Super Heroes,Super Heroes
+test,90398PB006,Super Heroes,Harry Potter
+test,NJO0115,NINJAGO,NINJAGO
+test,COL198,Collectible Minifigures,Collectible Minifigures
+test,COL225,Collectible Minifigures,Collectible Minifigures
+test,MIN020,Minecraft,Minecraft
+test,TWN229,Town,BrickLink Designer Program
+test,CTY0515,Town,Town
+test,CTY0517,Town,Town
+test,SW0622,Star Wars,Star Wars
+test,SW0620,Star Wars,Star Wars
+test,SH0166,Super Heroes,Super Heroes
+test,SH0165,Super Heroes,Super Heroes
+test,JW008,Jurassic World,Jurassic World
+test,SIM041,Collectible Minifigures,Collectible Minifigures
+test,LOC129,LEGENDS OF CHIMA,LEGENDS OF CHIMA
+test,NJO0179,NINJAGO,NINJAGO
+test,NJO0151,NINJAGO,NINJAGO
+test,NEX004,NEXO KNIGHTS,NEXO KNIGHTS
+test,SW0719,Star Wars,Star Wars
+test,AIR051,Town,Town
+test,DIS002,Collectible Minifigures,LEGO Ideas
+test,90398PB007,Super Heroes,Super Heroes
+test,NEX053,NEXO KNIGHTS,NEXO KNIGHTS
+test,SH0245,Super Heroes,Super Heroes
+test,TWN252,Town,Town
+test,SH0218,Super Heroes,Super Heroes
+test,SH0265,Super Heroes,Super Heroes
+test,SW0780,Star Wars,Town
+test,SH0281,Super Heroes,Super Heroes
+test,SH0247,Super Heroes,Collectible Minifigures
+test,DIS016,Collectible Minifigures,Collectible Minifigures
+test,TWN250,Town,Town
+test,NEX011,NEXO KNIGHTS,NEXO KNIGHTS
+test,NJO0242,NINJAGO,NINJAGO
+test,SW0750,Star Wars,Star Wars
+test,SW0768,Star Wars,Super Heroes
+test,SW0751,Star Wars,Star Wars
+test,DIS010,Collectible Minifigures,Collectible Minifigures
+test,47205PB037,DUPLO,DUPLO
+test,47394PB216,DUPLO,DUPLO
+test,DP018,Disney,Disney
+test,COL234,Collectible Minifigures,Collectible Minifigures
+test,CTY0670,Town,Town
+test,CTY0637,Town,Town
+test,CTY0648,Town,Town
+test,SW0694,Star Wars,Star Wars
+test,NEX052,NEXO KNIGHTS,NEXO KNIGHTS
+test,FRND0173,Friends,Friends
+test,FRND0152,Friends,Friends
+test,FRND0167,Friends,Friends
+test,FRND0174,Friends,Friends
+test,FRND0177,Friends,Friends
+test,FRND0157,Friends,Friends
+test,NJO0255,NINJAGO,NINJAGO
+test,CTY0659,Town,Town
+test,SW0727,Star Wars,Star Wars
+test,SH0268,Super Heroes,Super Heroes
+test,SW0775,Star Wars,Star Wars
+test,SW0712,Star Wars,Star Wars
+test,NJO0224,NINJAGO,NINJAGO
+test,NJO0248,NINJAGO,NINJAGO
+test,DFB003,Collectible Minifigures,SPEED CHAMPIONS
+test,COL242,Collectible Minifigures,Collectible Minifigures
+test,SW0725,Star Wars,Star Wars
+test,SH0297,Super Heroes,Star Wars
+test,SH0276,Super Heroes,Super Heroes
+test,NEX015,NEXO KNIGHTS,NEXO KNIGHTS
+test,SH0270,Super Heroes,Super Heroes
+test,TLS094,LEGO Brand,Town
+test,NJO0263,NINJAGO,NINJAGO
+test,NEX016,NEXO KNIGHTS,NEXO KNIGHTS
+test,DFB002,Collectible Minifigures,Collectible Minifigures
+test,DFB004,Collectible Minifigures,Collectible Minifigures
+test,CTY0672,Town,Town
+test,DFB008,Collectible Minifigures,Collectible Minifigures
+test,DIS012,Collectible Minifigures,Disney
+test,MIN040,Minecraft,Minecraft
+test,DIS020,Disney,Disney
+test,COL265,Collectible Minifigures,Town
+test,NJO0227,NINJAGO,NINJAGO
+test,CTY0625,Town,Holiday & Event
+test,CTY0620,Town,Town
+test,CTY0644,Town,Town
+test,GAME009,LEGO Brand,Town
+test,JAIL006,Town,Town
+test,COL275,Collectible Minifigures,Town
+test,SC032,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,SC030,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,SW0746,Star Wars,Star Wars
+test,CTY0646,Town,Town
+test,DP032,Disney,Friends
+test,SW0705,Star Wars,Star Wars
+test,SH0234,Super Heroes,Super Heroes
+test,NEX039B,NEXO KNIGHTS,NEXO KNIGHTS
+test,NJO0229,NINJAGO,NINJAGO
+test,HOL082,Holiday & Event,Holiday & Event
+test,SW0766,Star Wars,Star Wars
+test,MIN033,Minecraft,Minecraft
+test,DP021,Disney,Disney
+test,SW0764,Star Wars,Star Wars
+test,SH0248,Super Heroes,Super Heroes
+test,NEX041,NEXO KNIGHTS,NEXO KNIGHTS
+test,MIN031,Minecraft,Minecraft
+test,SH0295,Super Heroes,Super Heroes
+test,SH0220,Super Heroes,Super Heroes
+test,IDEA028,LEGO Ideas,Sports
+test,SH0246,Super Heroes,Super Heroes
+test,SW0726,Star Wars,Star Wars
+test,CTY0680,Town,Town
+test,CTY0695,Town,Holiday & Event
+test,COL263,Collectible Minifigures,Collectible Minifigures
+test,COL261,Collectible Minifigures,Town
+test,COL262,Collectible Minifigures,The LEGO NINJAGO Movie
+test,NEX061,NEXO KNIGHTS,NEXO KNIGHTS
+test,COL250,Collectible Minifigures,Town
+test,HOL078,Holiday & Event,Town
+test,MIN154,Minecraft,Minecraft
+test,SW0830,Star Wars,Star Wars
+test,NEX115,NEXO KNIGHTS,NEXO KNIGHTS
+test,NJO0292,NINJAGO,NINJAGO
+test,SH0313,Super Heroes,Super Heroes
+test,SH0429,Super Heroes,Super Heroes
+test,NEX069,NEXO KNIGHTS,NEXO KNIGHTS
+test,SH0328,Super Heroes,Super Heroes
+test,CTY0760,Town,Town
+test,CTY0766,Town,Town
+test,CTY0764,Town,Town
+test,SH0349,Super Heroes,Super Heroes
+test,NEX112,NEXO KNIGHTS,NEXO KNIGHTS
+test,NEX113,NEXO KNIGHTS,NEXO KNIGHTS
+test,SH0308,Super Heroes,Super Heroes
+test,CTY0798,Town,Town
+test,CTY0730,Town,Town
+test,CHEF025,Town,BrickLink Designer Program
+test,CHEF024,Town,BrickLink Designer Program
+test,HOL112,Holiday & Event,Holiday & Event
+test,TWN289,Town,Town
+test,TWN293,Town,Town
+test,COL287,Collectible Minifigures,NINJAGO
+test,CTY0787,Town,Holiday & Event
+test,CTY0782,Town,Town
+test,CTY0785,Town,Town
+test,CTY0821,Town,Holiday & Event
+test,CTY0886,Town,BrickLink Designer Program
+test,CTY0792,Town,Town
+test,CTY0804,Town,Town
+test,NEX117,NEXO KNIGHTS,NEXO KNIGHTS
+test,CTY0809,Town,Holiday & Event
+test,CTY0864,Town,Town
+test,COL294,Collectible Minifigures,Collectible Minifigures
+test,TWN284,Town,Town
+test,SW0835,Star Wars,Space
+test,SH0445,Super Heroes,Super Heroes
+test,SH0444,Super Heroes,Super Heroes
+test,SH0359,Super Heroes,Town
+test,CTY0750,Town,Town
+test,47394PB173A,DUPLO,DUPLO
+test,47394PB214,DUPLO,DUPLO
+test,47394PB166A,DUPLO,DUPLO
+test,CRS022,DUPLO,DUPLO
+test,TWN288,Town,BrickLink Designer Program
+test,SW0842,Star Wars,Star Wars
+test,SW0870,Star Wars,Star Wars
+test,SW0875,Star Wars,Star Wars
+test,FRND0190,Friends,Friends
+test,FRND0227,Friends,Friends
+test,FRND0244,Friends,Friends
+test,FRND0214,Friends,Friends
+test,FRND0221,Friends,Friends
+test,FRND0210,Friends,Friends
+test,FRND0195,Friends,Friends
+test,FRND0201,Friends,Friends
+test,SH0388,Super Heroes,Super Heroes
+test,NJO0301,NINJAGO,Super Heroes
+test,TWN297,Town,Town
+test,HOL111,Holiday & Event,Holiday & Event
+test,HOL102,Holiday & Event,BrickLink Designer Program
+test,SH0428,Super Heroes,Super Heroes
+test,NJO0335,The LEGO NINJAGO Movie,Holiday & Event
+test,NJO0353,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,SH0306,Super Heroes,Collectible Minifigures
+test,SC040,SPEED CHAMPIONS,LEGO Brand
+test,SW0807,Star Wars,Star Wars
+test,SW0847,Star Wars,Star Wars
+test,SH0368,Super Heroes,Super Heroes
+test,TWN282,Town,Town
+test,NJO0287,NINJAGO,NINJAGO
+test,NEX087,NEXO KNIGHTS,NINJAGO
+test,NJO0316,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,NJO0346,NINJAGO,NINJAGO
+test,COLTLBM19,Collectible Minifigures,Super Heroes
+test,NEX082,NEXO KNIGHTS,Collectible Minifigures
+test,NJO0432,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,NJO0347,NINJAGO,NINJAGO
+test,NJO0374,The LEGO NINJAGO Movie,NINJAGO
+test,NJO0364,The LEGO NINJAGO Movie,Super Heroes
+test,NJO0309,The LEGO NINJAGO Movie,NINJAGO
+test,NJO0344,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,SH0421,Super Heroes,Super Heroes
+test,SC042,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,NJO0412,The LEGO NINJAGO Movie,NINJAGO
+test,MOA002,Disney,Disney
+test,TWN299,Town,BrickLink Designer Program
+test,NJO0334,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,SH0396,Super Heroes,Super Heroes
+test,CTY0784,Town,Town
+test,SH0442,Super Heroes,Super Heroes
+test,NJO0416,The LEGO NINJAGO Movie,Town
+test,NJO0320,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,SW0846,Star Wars,Star Wars
+test,DP042,Disney,Disney
+test,NJO0409,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,TWN271,Town,Town
+test,CTY0703,Town,Town
+test,CTY0775,Town,Town
+test,NJO0326,The LEGO NINJAGO Movie,The LEGO NINJAGO Movie
+test,NEX066,NEXO KNIGHTS,NEXO KNIGHTS
+test,SW0810,Star Wars,Star Wars
+test,SW0800,Star Wars,Star Wars
+test,SW0805,Star Wars,Star Wars
+test,COL296,Collectible Minifigures,Collectible Minifigures
+test,NEX077,NEXO KNIGHTS,NEXO KNIGHTS
+test,CTY0719,Town,Town
+test,SW0851,Star Wars,Star Wars
+test,NEX074,NEXO KNIGHTS,NEXO KNIGHTS
+test,NEX109,NEXO KNIGHTS,NEXO KNIGHTS
+test,NJO0286,NINJAGO,NINJAGO
+test,SC036,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,MIN054,Minecraft,Minecraft
+test,SH0420,Super Heroes,Super Heroes
+test,NJO0324,The LEGO NINJAGO Movie,NINJAGO
+test,HOL101,Holiday & Event,Holiday & Event
+test,NJO0295,NINJAGO,Super Heroes
+test,SH0382,Super Heroes,NINJAGO
+test,SH0324,Super Heroes,Super Heroes
+test,SH0351,Super Heroes,Monkie Kid
+test,SH0314,Super Heroes,Monkie Kid
+test,SH0334,Super Heroes,Super Heroes
+test,SH0412,Super Heroes,Super Heroes
+test,CTY0800,Town,Town
+test,HOL095,Holiday & Event,NINJAGO
+test,SW0863,Star Wars,Harry Potter
+test,SH0434,Super Heroes,Super Heroes
+test,SW0821,Star Wars,Star Wars
+test,SH0364,Super Heroes,Super Heroes
+test,HOL283,Holiday & Event,Holiday & Event
+test,NJO0290,NINJAGO,NINJAGO
+test,NJO0306,NINJAGO,NINJAGO
+test,NJO0285,NINJAGO,NINJAGO
+test,JW036,Jurassic World,Jurassic World
+test,JW018,Jurassic World,Jurassic World
+test,JW043,Jurassic World,Super Heroes
+test,JW042,Jurassic World,Jurassic World
+test,CTY0950,Town,Town
+test,COLHP16,Collectible Minifigures,LEGO Ideas
+test,MIN062,Minecraft,Minecraft
+test,SH0533,Super Heroes,Super Heroes
+test,NJO0461,NINJAGO,NINJAGO
+test,SW0933,Star Wars,Star Wars
+test,NJO0446,The LEGO NINJAGO Movie,Town
+test,SH0492,Super Heroes,Super Heroes
+test,COL317,Collectible Minifigures,Town
+test,SH0478,Super Heroes,Super Heroes
+test,SH0494,Super Heroes,Super Heroes
+test,CTY0889,Town,Town
+test,TWN309,Town,Town
+test,TWN339,Town,Town
+test,GEN112,LEGO Brand,Town
+test,COL322,Collectible Minifigures,Town
+test,CTY0844,Town,Town
+test,CTY0915,Town,BrickLink Designer Program
+test,SW0948,Star Wars,Star Wars
+test,CTY0907,Town,Town
+test,TWN337,Town,Town
+test,JW021,Jurassic World,Jurassic World
+test,TWN323,Town,Town
+test,NEX134,NEXO KNIGHTS,NEXO KNIGHTS
+test,TWN340,Town,Town
+test,SH0507,Super Heroes,Super Heroes
+test,NEX143,NEXO KNIGHTS,NEXO KNIGHTS
+test,COLTLBM25,Collectible Minifigures,Collectible Minifigures
+test,COLTLBM42,Collectible Minifigures,Collectible Minifigures
+test,JW028,Jurassic World,Jurassic World
+test,SW0945,Star Wars,Star Wars
+test,47205PB055,DUPLO,DUPLO
+test,27383PB01,DUPLO,Disney
+test,SH0462,Super Heroes,Super Heroes
+test,COL312,Collectible Minifigures,Collectible Minifigures
+test,DP050,Disney,Disney
+test,SW0940,Star Wars,Star Wars
+test,HOL126,Holiday & Event,Holiday & Event
+test,JW022,Jurassic World,Jurassic World
+test,FRND0242,Friends,Friends
+test,FRND0249,Friends,Friends
+test,FRND0262,Friends,Friends
+test,FRND0245,Friends,Friends
+test,FRND0250,Friends,Friends
+test,FRND0243,Friends,Friends
+test,HP169,Harry Potter,Harry Potter
+test,SH0455,Super Heroes,Super Heroes
+test,SW0898,Star Wars,Star Wars
+test,NJO0383,NINJAGO,Super Heroes
+test,SH0461,Super Heroes,Super Heroes
+test,CTY0878,Town,Town
+test,SW0968,Star Wars,Star Wars
+test,SW0912,Star Wars,Star Wars
+test,SW0847A,Star Wars,Star Wars
+test,SW0913,Star Wars,Star Wars
+test,NJO0407,NINJAGO,NINJAGO
+test,NJO0452,NINJAGO,NINJAGO
+test,NJO0406,NINJAGO,NINJAGO
+test,GEN105,LEGO Brand,Town
+test,SH0459,Super Heroes,Super Heroes
+test,SH0490,Super Heroes,Super Heroes
+test,NJO0382,NINJAGO,Super Heroes
+test,90398PB018,Harry Potter,Harry Potter
+test,TWN352,LEGO Brand,Town
+test,TWN353,LEGO Brand,LEGO Brand
+test,NJO0392,NINJAGO,NINJAGO
+test,SW0957,Star Wars,Star Wars
+test,SW0907,Star Wars,Star Wars
+test,COLHP05,Collectible Minifigures,Collectible Minifigures
+test,SW0889,Star Wars,Star Wars
+test,NEX149,NEXO KNIGHTS,NEXO KNIGHTS
+test,DP046,Disney,Disney
+test,SW0927,Star Wars,NEXO KNIGHTS
+test,CTY0877,Town,Town
+test,CTY0848,Town,Town
+test,CTY0856,Town,Town
+test,CTY0850,Town,Collectible Minifigures
+test,DP044,Disney,Disney
+test,NJO0437,The LEGO NINJAGO Movie,Holiday & Event
+test,NJO0394,NINJAGO,NINJAGO
+test,CTY0945,Town,Town
+test,JW020,Jurassic World,Collectible Minifigures
+test,CTY0897,Town,Town
+test,COL315,Collectible Minifigures,Collectible Minifigures
+test,CTY0947,Town,Town
+test,CTY0930,Town,Town
+test,CTY0936,Town,Town
+test,SC054,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,HP172,Harry Potter,Harry Potter
+test,90398PB021,Harry Potter,Harry Potter
+test,90398PB023,Harry Potter,Harry Potter
+test,SW0884,Star Wars,Star Wars
+test,SW0888,Star Wars,Star Wars
+test,SW0960,Star Wars,Star Wars
+test,SW0894,Star Wars,Star Wars
+test,HP141,Harry Potter,Harry Potter
+test,HP167,Harry Potter,LEGO Ideas
+test,CTY0819,Town,Town
+test,CTY0940,Town,BrickLink Designer Program
+test,90398PB037,Harry Potter,Harry Potter
+test,SW1134,Star Wars,Star Wars
+test,CTY0842,Town,Town
+test,COL320,Collectible Minifigures,Collectible Minifigures
+test,TWN347,Town,The LEGO NINJAGO Movie
+test,SH0473,Super Heroes,Super Heroes
+test,SH0482,Super Heroes,Super Heroes
+test,COLHP18,Collectible Minifigures,Collectible Minifigures
+test,COL336,Collectible Minifigures,Super Heroes
+test,TRN250,Town,Town
+test,COLTLBM33,Collectible Minifigures,Collectible Minifigures
+test,HOL128,Holiday & Event,Holiday & Event
+test,TWN317,Town,Holiday & Event
+test,TWN316,Town,LEGO Brand
+test,SW0893,Star Wars,Star Wars
+test,NJO0396,NINJAGO,NINJAGO
+test,SC072,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,HP190,Harry Potter,Harry Potter
+test,MIN070,Minecraft,Minecraft
+test,DP073,Disney,Disney
+test,DP070,Disney,Disney
+test,TLM160,Collectible Minifigures,NINJAGO
+test,SH0557,Super Heroes,Super Heroes
+test,CTY1039,Town,Town
+test,CTY1027,Town,Town
+test,CTY1055,Town,Town
+test,CTY1049,Town,BrickLink Designer Program
+test,TLM149,Collectible Minifigures,Collectible Minifigures
+test,HOL182,Holiday & Event,BrickLink Designer Program
+test,CTY1044,Town,The LEGO NINJAGO Movie
+test,BDP006,BrickLink Designer Program,Town
+test,SH0595,Super Heroes,Super Heroes
+test,CHEF026,Town,Town
+test,TWN362,Town,Town
+test,TWN370,Town,Town
+test,SW1002,Star Wars,Star Wars
+test,TLM164,Collectible Minifigures,Collectible Minifigures
+test,IDEA052,LEGO Ideas,BrickLink Designer Program
+test,JW053,Jurassic World,Collectible Minifigures
+test,SW0981,Star Wars,Star Wars
+test,HP198,Harry Potter,Harry Potter
+test,SH0547,Super Heroes,Town
+test,JW056,Jurassic World,Jurassic World
+test,HOL155,Holiday & Event,Holiday & Event
+test,HOL157,Holiday & Event,Holiday & Event
+test,47205PB090,DUPLO,DUPLO
+test,47394PB271,DUPLO,DUPLO
+test,47394PB264,DUPLO,DUPLO
+test,47394PB278,DUPLO,DUPLO
+test,SW0990,Star Wars,Star Wars
+test,DP076,Disney,Disney
+test,CTY1013,Town,BrickLink Designer Program
+test,SW1033,Star Wars,Star Wars
+test,CTY0975,Town,Town
+test,CTY0968,Town,Town
+test,SH0551,Super Heroes,Super Heroes
+test,SW1053,Star Wars,Star Wars
+test,HP202,Harry Potter,Harry Potter
+test,FRND0338,Friends,Friends
+test,FRND0333,Friends,Friends
+test,FRND0309,Friends,Friends
+test,FRND0328,Friends,Friends
+test,FRND0280,Friends,Friends
+test,FRND0315,Friends,Friends
+test,FRND0324,Friends,Friends
+test,FRND0332,Friends,Friends
+test,FRND0318,Friends,Friends
+test,FRND0307,Friends,Friends
+test,FRND0327,Friends,Friends
+test,FRND0317,Friends,Friends
+test,DIS041,Collectible Minifigures,Collectible Minifigures
+test,HP203,Harry Potter,Harry Potter
+test,CTY1006,Town,Town
+test,CTY1014,Town,Town
+test,DIS044,Disney,Disney
+test,TWN368,Town,Town
+test,SW1018,Star Wars,Star Wars
+test,HP195,Harry Potter,Harry Potter
+test,MIN073,Minecraft,Minecraft
+test,CTY1026,Town,Town
+test,BDP030,BrickLink Designer Program,BrickLink Designer Program
+test,SW0986,Star Wars,Star Wars
+test,SH0566,Super Heroes,Super Heroes
+test,DIS034,Collectible Minifigures,Collectible Minifigures
+test,DIS035,Collectible Minifigures,Disney
+test,COL348,Collectible Minifigures,NINJAGO
+test,NJO0531,NINJAGO,NINJAGO
+test,SW1059,Star Wars,Star Wars
+test,SW1064,Star Wars,Star Wars
+test,DP072,Disney,Friends
+test,SW1048,Star Wars,Jurassic World
+test,NJO0499,NINJAGO,NINJAGO
+test,NJO0490,NINJAGO,NINJAGO
+test,HP191,Harry Potter,Harry Potter
+test,TWN359,Town,Holiday & Event
+test,TWN369,Town,Town
+test,SC069,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,SC074,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,SH0574,Super Heroes,Super Heroes
+test,NJO0547,NINJAGO,NINJAGO
+test,SW1046,Star Wars,Star Wars
+test,NJO0510,NINJAGO,NINJAGO
+test,SW1023,Star Wars,Star Wars
+test,TWN364,Town,Town
+test,SW1019,Star Wars,Star Wars
+test,CTY1042,Town,Town
+test,NJO0539,NINJAGO,NINJAGO
+test,SC075,SPEED CHAMPIONS,Town
+test,DP061,Disney,Disney
+test,CTY1058,Town,Town
+test,CTY1069,Town,Town
+test,CTY1035,Town,Town
+test,HP174,Harry Potter,Harry Potter
+test,CTY0995,Town,Town
+test,SW1009,Star Wars,Star Wars
+test,SH0540,Super Heroes,Super Heroes
+test,SH0536,Super Heroes,Super Heroes
+test,SW1061,Star Wars,Star Wars
+test,CTY1051,Town,Town
+test,SH0584,Super Heroes,Super Heroes
+test,CTY1050,Town,Town
+test,SH0609,Super Heroes,Star Wars
+test,SH0564,Super Heroes,Super Heroes
+test,NJO0555,NINJAGO,NINJAGO
+test,NJO0496,NINJAGO,NINJAGO
+test,NJO0494,NINJAGO,NINJAGO
+test,SH0653,Super Heroes,Super Heroes
+test,SH0657,Super Heroes,Super Heroes
+test,CTY1187,Town,Town
+test,COLSH03,Collectible Minifigures,Collectible Minifigures
+test,SH0617,Super Heroes,Super Heroes
+test,SW1105,Star Wars,Star Wars
+test,CTY1096,Town,Town
+test,COLSH16,Collectible Minifigures,Super Heroes
+test,SH0629,Super Heroes,Super Heroes
+test,MAR0001,Super Mario,Super Mario
+test,MAR0002,Super Mario,Super Mario
+test,MAR0003,Super Mario,Super Mario
+test,HOL214,Holiday & Event,Holiday & Event
+test,TWN382,Town,Town
+test,CTY1153,Town,Town
+test,IDEA077,LEGO Ideas,BrickLink Designer Program
+test,SW1112,Star Wars,Star Wars
+test,CTY1177,Town,Town
+test,47394PB299,DUPLO,DUPLO
+test,47394PB284,DUPLO,DUPLO
+test,47394PB300,DUPLO,DUPLO
+test,DUPMERMAID02,DUPLO,DUPLO
+test,CRS044,DUPLO,DUPLO
+test,DP083,Disney,Disney
+test,TWN394,Town,BrickLink Designer Program
+test,TWN391,Town,Town
+test,CTY1105,Town,Town
+test,HOL183,Holiday & Event,Holiday & Event
+test,FRND0387,Friends,Friends
+test,FRND0374,Friends,Friends
+test,FRND0349,Friends,Friends
+test,FRND0362,Friends,Friends
+test,FRND0369,Friends,Friends
+test,HP251,Harry Potter,Harry Potter
+test,TWN392,Town,BrickLink Designer Program
+test,HP243,Harry Potter,LEGO Ideas
+test,MK026,Monkie Kid,Monkie Kid
+test,SW1111,Star Wars,Star Wars
+test,HP222,Harry Potter,Harry Potter
+test,NJO0573,NINJAGO,NINJAGO
+test,MIN081,Minecraft,Minecraft
+test,MIN082,Minecraft,Minecraft
+test,SH0673,Super Heroes,Super Heroes
+test,MK002,Monkie Kid,Super Heroes
+test,NJO0633,NINJAGO,NINJAGO
+test,MK018,Monkie Kid,Town
+test,COLHP35,Collectible Minifigures,LEGO Ideas
+test,SW1099,Star Wars,Star Wars
+test,NJO0581,NINJAGO,NINJAGO
+test,SC085,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,HP226,Harry Potter,Harry Potter
+test,MK014,Monkie Kid,Town
+test,SH0660,Super Heroes,Super Heroes
+test,MAR0036,Super Mario,Minecraft
+test,MK021,Monkie Kid,Monkie Kid
+test,SH0585B,Super Heroes,Super Heroes
+test,SH0659,Super Heroes,Super Heroes
+test,NJO0560,NINJAGO,Collectible Minifigures
+test,HP217,Harry Potter,Harry Potter
+test,PI186,Pirates,Town
+test,CTY1125,Town,Town
+test,CTY1126,Town,Town
+test,CTY1112,Town,Town
+test,SH0676,Super Heroes,Star Wars
+test,MK012,Monkie Kid,Monkie Kid
+test,HP214,Harry Potter,Harry Potter
+test,HP231,Harry Potter,Harry Potter
+test,CTY1180,Town,Town
+test,CTY1166,Town,Town
+test,HOL195,Holiday & Event,Town
+test,COLSH05,Collectible Minifigures,Super Heroes
+test,MIN074,Minecraft,Minecraft
+test,NJO0580,NINJAGO,NINJAGO
+test,CTY1104,Town,BrickLink Designer Program
+test,SH0645,Super Heroes,Super Heroes
+test,MAR0031,Super Mario,Super Mario
+test,SH0666,Super Heroes,Collectible Minifigures
+test,MK027,Monkie Kid,Town
+test,COL365,Collectible Minifigures,Collectible Minifigures
+test,HOL188,Holiday & Event,Town
+test,HOL216,Holiday & Event,Town
+test,NJO0599,NINJAGO,NINJAGO
+test,NJO0626,NINJAGO,NINJAGO
+test,SC091,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,IDEA083,LEGO Ideas,LEGO Ideas
+test,TWN411,Town,Town
+test,SH0721,Super Heroes,Super Heroes
+test,COL380,Collectible Minifigures,Town
+test,DP132,Disney,Disney
+test,SH0720,Super Heroes,Super Heroes
+test,MK051,Monkie Kid,Super Heroes
+test,MAR0075,Super Mario,Super Mario
+test,DP120,Disney,Friends
+test,CTY1233,Town,NINJAGO
+test,SH0736,Super Heroes,Super Heroes
+test,BDP015,BrickLink Designer Program,BrickLink Designer Program
+test,HP263A,Harry Potter,Harry Potter
+test,SW1146,Star Wars,Star Wars
+test,CTY1286,Town,Town
+test,IDEA094,LEGO Ideas,LEGO Ideas
+test,DIS055,Disney,Disney
+test,JW073,Jurassic World,Town
+test,HP267,Harry Potter,Harry Potter
+test,47205PB078,DUPLO,DUPLO
+test,47394PB303,DUPLO,DUPLO
+test,47394PB322,DUPLO,DUPLO
+test,47394PB314,DUPLO,DUPLO
+test,47394PB324,DUPLO,DUPLO
+test,TLS104,LEGO Brand,LEGO Brand
+test,TWN414,Town,Town
+test,TWN413,Town,Town
+test,MK055,Monkie Kid,Town
+test,SW1159,Star Wars,SPEED CHAMPIONS
+test,CTY1250,Town,Town
+test,CTY1596,Town,Town
+test,FRND0475,Friends,Friends
+test,FRND0450,Friends,Friends
+test,FRND0382A,Friends,Friends
+test,FRND0461,Friends,Friends
+test,FRND0477,Friends,Friends
+test,FRND0439,Friends,Friends
+test,FRND0256A,Friends,Friends
+test,FRND0433,Friends,Friends
+test,FRND0432,Friends,Friends
+test,SW1175,Star Wars,Star Wars
+test,HP300,Harry Potter,Collectible Minifigures
+test,HP281,Harry Potter,Harry Potter
+test,HP282,Harry Potter,Harry Potter
+test,SW1142,Star Wars,Star Wars
+test,CTY1315,Town,NINJAGO
+test,NJO0688,NINJAGO,NINJAGO
+test,HP306,Harry Potter,Harry Potter
+test,NJO0643,NINJAGO,NINJAGO
+test,SH0699,Super Heroes,Harry Potter
+test,NJO0674,NINJAGO,NINJAGO
+test,DIS061,Disney,Disney
+test,NJO0732,NINJAGO,Holiday & Event
+test,DIS056,Disney,DUPLO
+test,HP291,Harry Potter,Harry Potter
+test,MK054,Monkie Kid,Holiday & Event
+test,TWN402,Town,Town
+test,SW1136,Star Wars,Star Wars
+test,SH0758,Super Heroes,Super Heroes
+test,NJO0689,NINJAGO,NINJAGO
+test,DP138,Disney,Disney
+test,MAR0069,Super Mario,Star Wars
+test,CTY1290,Town,Town
+test,CTY1243,Town,Town
+test,CTY1242,Town,Town
+test,CTY1257,Town,Town
+test,NJO0697,NINJAGO,NINJAGO
+test,COL378,Collectible Minifigures,Holiday & Event
+test,IDEA089,LEGO Ideas,Disney
+test,CTY1259,Town,BrickLink Designer Program
+test,DP118,Disney,Friends
+test,MAR0077,Super Mario,Super Mario
+test,HP287,Harry Potter,Harry Potter
+test,HP283,Harry Potter,Harry Potter
+test,JW072,Jurassic World,DREAMZzz
+test,SH0708,Super Heroes,Super Heroes
+test,SH0691,Super Heroes,Collectible Minifigures
+test,MAR0055,Super Mario,Super Mario
+test,CTY1327,Town,NINJAGO
+test,HP298,Harry Potter,The Hobbit and The Lord of the Rings
+test,NJO0675,NINJAGO,Super Heroes
+test,TWN407,Town,Town
+test,COLMAR07,Collectible Minifigures,Harry Potter
+test,MK060,Monkie Kid,Monkie Kid
+test,COLLT09,Collectible Minifigures,DUPLO
+test,SH0704,Super Heroes,Super Heroes
+test,SW1170,Star Wars,Star Wars
+test,NJO0666,NINJAGO,Town
+test,COLMAR01,Collectible Minifigures,Super Heroes
+test,DP124,Disney,Disney
+test,IDEA087,LEGO Ideas,DUPLO
+test,MK050,Monkie Kid,Monkie Kid
+test,CTY1304,Town,Town
+test,HP302,Harry Potter,Star Wars
+test,TWN409,Town,Town
+test,NJO0670,NINJAGO,NINJAGO
+test,SC097,SPEED CHAMPIONS,Town
+test,SH0789,Super Heroes,Monkie Kid
+test,IDEA115,LEGO Ideas,LEGO Ideas
+test,DP144,Disney,Disney
+test,MAR0093,Super Mario,Super Mario
+test,SW1224,Star Wars,Star Wars
+test,MAR0136,Super Mario,Super Mario
+test,CAS575,Castle,BrickLink Designer Program
+test,SH0842,Super Heroes,Super Heroes
+test,NJO0737,NINJAGO,NINJAGO
+test,NJO0752,NINJAGO,NINJAGO
+test,MAR0085,Super Mario,Super Mario
+test,MAR0087,Super Mario,Super Mario
+test,COL403,Collectible Minifigures,Collectible Minifigures
+test,MAR0120,Super Mario,Super Mario
+test,MK079,Monkie Kid,Monkie Kid
+test,MAR0101,Super Mario,Super Mario
+test,CTY1459,Town,Town
+test,HOL288,Holiday & Event,Holiday & Event
+test,BDP034,BrickLink Designer Program,BrickLink Designer Program
+test,HOL275,Holiday & Event,Holiday & Event
+test,HOL276,Holiday & Event,Town
+test,CTY1333,Town,Town
+test,TWN449,Town,Town
+test,COL387,Collectible Minifigures,Collectible Minifigures
+test,MK069,Monkie Kid,Monkie Kid
+test,JW079,Jurassic World,Jurassic World
+test,MAR0089,Super Mario,Super Mario
+test,NJO0781,NINJAGO,NINJAGO
+test,NJO0758,NINJAGO,NINJAGO
+test,CTY1403,Town,Town
+test,NJO0787,NINJAGO,NINJAGO
+test,IDEA109,LEGO Ideas,Jurassic World
+test,SH0833,Super Heroes,Super Heroes
+test,CTY1341,Town,Town
+test,MAR0107,Super Mario,Super Mario
+test,IDEA164,LEGO Ideas,SPEED CHAMPIONS
+test,47205PB091,DUPLO,DUPLO
+test,47394PB328,DUPLO,DUPLO
+test,84187PB01,DUPLO,Disney
+test,SH0827,Super Heroes,Super Heroes
+test,HOL295,Holiday & Event,Holiday & Event
+test,MK103,Monkie Kid,Monkie Kid
+test,CTY1441,Town,Town
+test,SW1192,Star Wars,Collectible Minifigures
+test,COL407,Collectible Minifigures,Super Mario
+test,COL391,Collectible Minifigures,Town
+test,CTY1358,Town,Town
+test,CTY1513,Town,Town
+test,CTY1433,Town,Town
+test,CTY1359,Town,Town
+test,BDP039,BrickLink Designer Program,Town
+test,CAS573,Castle,Castle
+test,MAR0090,Super Mario,Super Mario
+test,FRND0564,Friends,Friends
+test,FRND0530,Friends,Friends
+test,FRND0495,Friends,Friends
+test,FRND0501,Friends,Friends
+test,FRND0514,Friends,Friends
+test,FRND0538,Friends,Friends
+test,FRND0494,Friends,Friends
+test,FRND0549,Friends,Friends
+test,FRND0483,Friends,Friends
+test,FRND0498,Friends,Friends
+test,FRND0550,Friends,Friends
+test,FRND0502,Friends,Friends
+test,FRND0513,Friends,Friends
+test,FRND0486,Friends,Friends
+test,TWN419,Town,Town
+test,SH0794,Super Heroes,Super Heroes
+test,CTY1392,Town,Town
+test,MAR0123,Super Mario,Super Mario
+test,HP364,Harry Potter,Harry Potter
+test,HP384,Harry Potter,Harry Potter
+test,DIS081,Disney,LEGO Ideas
+test,HP331,Harry Potter,Harry Potter
+test,COL402,Collectible Minifigures,Holiday & Event
+test,HOL287,Holiday & Event,Holiday & Event
+test,CTY1434,Town,Town
+test,HP393,Harry Potter,Harry Potter
+test,CTY1389,Town,Town
+test,MIN124,Minecraft,Minecraft
+test,SH0823,Super Heroes,Super Heroes
+test,SH0825,Super Heroes,Super Heroes
+test,COLTM12,Collectible Minifigures,Collectible Minifigures
+test,NJO0736,NINJAGO,NINJAGO
+test,NJO0721,NINJAGO,NINJAGO
+test,NJO0762,NINJAGO,NINJAGO
+test,IDEA117,LEGO Ideas,Town
+test,IDEA108,LEGO Ideas,Collectible Minifigures
+test,MAR0099,Super Mario,Super Mario
+test,SH0810,Super Heroes,NINJAGO
+test,SW1244,Star Wars,Star Wars
+test,IDEA123,LEGO Ideas,Holiday & Event
+test,MIN123,Minecraft,Minecraft
+test,NJO0796,NINJAGO,NINJAGO
+test,CTY1485,Town,Collectible Minifigures
+test,NJO0803,NINJAGO,NINJAGO
+test,HP373,Harry Potter,Harry Potter
+test,SH0787,Super Heroes,Collectible Minifigures
+test,MAR0122,Super Mario,Super Mario
+test,CTY1436,Town,Town
+test,CAS569,Castle,BrickLink Designer Program
+test,BDP042,BrickLink Designer Program,Town
+test,HOL274,Holiday & Event,Town
+test,HOL271,Holiday & Event,Town
+test,HOL281,Holiday & Event,Holiday & Event
+test,MK071,Monkie Kid,Town
+test,SC101,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,MIN128,Minecraft,Minecraft
+test,DIS074,Disney,Disney
+test,MK101,Monkie Kid,Monkie Kid
+test,MK087,Monkie Kid,Monkie Kid
+test,CTY1419,Town,Town
+test,CTY1480,Town,Town
+test,SH0835,Super Heroes,Town
+test,MK077,Monkie Kid,Monkie Kid
+test,COL392,Collectible Minifigures,Collectible Minifigures
+test,SW1227,Star Wars,Star Wars
+test,SH0847,Super Heroes,Star Wars
+test,CTY1474,Town,Town
+test,CAS570,Castle,BrickLink Designer Program
+test,NJO0742,NINJAGO,NINJAGO
+test,CTY1475,Town,Town
+test,CTY1334,Town,Town
+test,CTY1367,Town,Town
+test,CTY1448,Town,Town
+test,CTY1382,Town,Town
+test,CTY1365,Town,Town
+test,CTY1379,Town,Town
+test,COL404,Collectible Minifigures,Castle
+test,HP348,Harry Potter,Collectible Minifigures
+test,MAR0129,Super Mario,Super Mario
+test,MAR0127,Super Mario,Super Mario
+test,CTY1335,Town,Town
+test,SH0822,Super Heroes,Super Heroes
+test,SH0830,Super Heroes,Star Wars
+test,HP345,Harry Potter,Harry Potter
+test,CTY1501,Town,BrickLink Designer Program
+test,NJO0773,NINJAGO,NINJAGO
+test,IDEA145,LEGO Ideas,Sports
+test,IDEA140,LEGO Ideas,LEGO Ideas
+test,IDEA131,LEGO Ideas,LEGO Ideas
+test,IDEA129,LEGO Ideas,Collectible Minifigures
+test,IDEA127,LEGO Ideas,Sports
+test,IDEA143,LEGO Ideas,LEGO Ideas
+test,COL396,Collectible Minifigures,Collectible Minifigures
+test,CTY1425,Town,Town
+test,SH0797,Super Heroes,Super Heroes
+test,CTY1455,Town,Town
+test,CTY1496,Town,Town
+test,CTY1487,Town,Town
+test,SW1216,Star Wars,Star Wars
+test,SW1222,Star Wars,Star Wars
+test,SW1243,Star Wars,Star Wars
+test,SH0785,Super Heroes,Jurassic World
+test,SW1194,Star Wars,Super Heroes
+test,MAR0095,Super Mario,Super Mario
+test,NJO0754,NINJAGO,NINJAGO
+test,MIN126,Minecraft,Minecraft
+test,IDEA106,LEGO Ideas,Town
+test,NJO0723,NINJAGO,NINJAGO
+test,JW091,Jurassic World,Town
+test,CTY1445,Town,Town
+test,CTY1439,Town,Town
+test,HOL261,Holiday & Event,Town
+test,HOL277,Holiday & Event,Town
+test,CTY1342,Town,Town
+test,NJO0741,NINJAGO,NINJAGO
+test,MAR0113,Super Mario,Super Mario
+test,MIN134,Minecraft,Minecraft
+test,BDP096,BrickLink Designer Program,NINJAGO
+test,SH0877,Super Heroes,Super Heroes
+test,SW1300,Star Wars,Star Wars
+test,CTY1677,Town,Town
+test,CTY1673,Town,Town
+test,LOR129,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,CTY1612,Town,Town
+test,CTY1609,Town,Town
+test,CTY1610,Town,Town
+test,DP178,Disney,Friends
+test,SW1291,Star Wars,Star Wars
+test,SW1261,Star Wars,Star Wars
+test,MK116,Monkie Kid,Monkie Kid
+test,SH0902,Super Heroes,Super Heroes
+test,COLMAR22,Collectible Minifigures,Collectible Minifigures
+test,SH0881,Super Heroes,Super Heroes
+test,HP410,Harry Potter,Harry Potter
+test,NJO0793,NINJAGO,NINJAGO
+test,SC104,SPEED CHAMPIONS,Star Wars
+test,SH0884,Super Heroes,Harry Potter
+test,IDEA152,LEGO Ideas,Harry Potter
+test,IDEA148,LEGO Ideas,Holiday & Event
+test,HOL332,Holiday & Event,Town
+test,CTY1655,Town,Town
+test,DIS132,Disney,Disney
+test,DP173,Disney,Disney
+test,SP138,Space,Star Wars
+test,SW1246,Star Wars,Star Wars
+test,SW1278,Star Wars,Star Wars
+test,CTY1553,Town,Town
+test,MAR0141,Super Mario,Minecraft
+test,DRM008,DREAMZzz,LEGO Ideas
+test,DIS149,Disney,Disney
+test,SW1273,Star Wars,Star Wars
+test,MAR0164,Super Mario,Super Mario
+test,SH0909,Super Heroes,Super Heroes
+test,JW111,Jurassic World,Jurassic World
+test,JW116,Jurassic World,Jurassic World
+test,HP399,Harry Potter,Harry Potter
+test,CAS581,Castle,Castle
+test,DRM017,DREAMZzz,DUPLO
+test,TWN451,Town,BrickLink Designer Program
+test,47205PB106,DUPLO,DUPLO
+test,47205PB095,DUPLO,DUPLO
+test,47394PB345,DUPLO,DUPLO
+test,47394PB352,DUPLO,DUPLO
+test,LOR130,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,SW1297,Star Wars,Star Wars
+test,SC105,SPEED CHAMPIONS,BrickLink Designer Program
+test,CTY1551,Town,Town
+test,CTY1567,Town,Town
+test,SH0892,Super Heroes,Super Heroes
+test,FRND0644,Friends,Friends
+test,FRND0645,Friends,Friends
+test,FRND0639,Friends,Friends
+test,FRND0579,Friends,Friends
+test,FRND0593,Friends,Friends
+test,FRND0567,Friends,Friends
+test,FRND0637,Friends,Friends
+test,FRND0590,Friends,Friends
+test,FRND0628,Friends,Friends
+test,FRND0596,Friends,Friends
+test,FRND0648,Friends,Friends
+test,FRND0603,Friends,Friends
+test,FRND0652,Friends,Friends
+test,FRND0617,Friends,Friends
+test,FRND0646,Friends,Friends
+test,LOR125,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,HP457,Harry Potter,Harry Potter
+test,SW1252,Star Wars,Super Mario
+test,HP443,Harry Potter,Harry Potter
+test,HP427,Harry Potter,Harry Potter
+test,HP421,Harry Potter,Harry Potter
+test,HP449,Harry Potter,Harry Potter
+test,HP415,Harry Potter,Harry Potter
+test,CTY1652,Town,Town
+test,PI188,Pirates,Pirates
+test,DIS114,Disney,Collectible Minifigures
+test,MK107,Monkie Kid,Monkie Kid
+test,SH0931,Super Heroes,Jurassic World
+test,TWN468,Town,Town
+test,NJO0790,NINJAGO,NINJAGO
+test,NJO0810,NINJAGO,NINJAGO
+test,DRM005,DREAMZzz,Disney
+test,HOL318,Holiday & Event,Holiday & Event
+test,HOL305,Holiday & Event,Holiday & Event
+test,HOL316,Holiday & Event,Holiday & Event
+test,HOL309,Holiday & Event,Holiday & Event
+test,TWN457,Town,Town
+test,TWN469,Holiday & Event,Town
+test,SW1301,Star Wars,Star Wars
+test,BDP072,BrickLink Designer Program,BrickLink Designer Program
+test,DIS085,Disney,Town
+test,SH0894,Super Heroes,Town
+test,MK119,Monkie Kid,Monkie Kid
+test,BDP068,BrickLink Designer Program,Holiday & Event
+test,DRM014,DREAMZzz,DREAMZzz
+test,SH0870,Super Heroes,NINJAGO
+test,IDEA173,LEGO Ideas,Town
+test,HP431,Harry Potter,Harry Potter
+test,SC109,SPEED CHAMPIONS,Collectible Minifigures
+test,CTY1679,Town,Town
+test,LOR123,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,NJO0792,NINJAGO,NINJAGO
+test,CTY1646,Town,Town
+test,DIS103,Collectible Minifigures,Disney
+test,CTY1558,Town,Town
+test,CTY1588,Town,Town
+test,CTY1559,Town,BrickLink Designer Program
+test,CTY1595,Town,Town
+test,CTY1526,Town,Town
+test,DIS133,Disney,Disney
+test,DP175,Disney,Friends
+test,HP420,Harry Potter,Harry Potter
+test,MAR0162,Super Mario,Super Mario
+test,NJO0821,NINJAGO,NINJAGO
+test,DIS120,Disney,Friends
+test,CTY1522,Town,Town
+test,SW1295,Star Wars,Star Wars
+test,COL422,Collectible Minifigures,Town
+test,CTY1625,Town,Town
+test,HP416,Harry Potter,Harry Potter
+test,DIS144,Disney,Disney
+test,CTY1594,Town,Town
+test,SH0917,Super Heroes,Super Heroes
+test,SW1292,Star Wars,Star Wars
+test,SOC167,Sports,LEGO Ideas
+test,BDP067,BrickLink Designer Program,Town
+test,NJO0820,NINJAGO,NINJAGO
+test,COLMAR23,Collectible Minifigures,Super Heroes
+test,MIN141,Minecraft,Minecraft
+test,CTY1527,Town,Town
+test,MAR0156,Super Mario,Super Mario
+test,SH0934,Super Heroes,Town
+test,SH0889,Super Heroes,Super Heroes
+test,HP411,Harry Potter,Harry Potter
+test,SW1258,Star Wars,Star Wars
+test,SH0887,Super Heroes,Harry Potter
+test,SH0927,Super Heroes,Super Heroes
+test,90398PB046,Super Heroes,Harry Potter
+test,COLMAR16,Collectible Minifigures,Harry Potter
+test,DIS119,Disney,Disney
+test,SH0928,Super Heroes,Super Heroes
+test,HP440,Harry Potter,Harry Potter
+test,BDP083,BrickLink Designer Program,Holiday & Event
+test,BDP092,BrickLink Designer Program,BrickLink Designer Program
+test,DP180,Disney,Disney
+test,SH0895,Super Heroes,Super Heroes
+test,TWN474,Town,Town
+test,HOL333,Holiday & Event,Town
+test,MK108,Monkie Kid,Monkie Kid
+test,SW1378,Star Wars,Star Wars
+test,CTY1768,Town,Town
+test,HP478,Harry Potter,The Hobbit and The Lord of the Rings
+test,DIS150,Disney,Disney
+test,SC116,SPEED CHAMPIONS,Town
+test,SC117,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,SW1393,Star Wars,Star Wars
+test,CTY1759,Town,Town
+test,CTY1722,Town,Town
+test,CTY1755,Town,LEGO Ideas
+test,CTY1709,Town,Town
+test,HP494,Harry Potter,Harry Potter
+test,COL448,Collectible Minifigures,Super Heroes
+test,NJO0889,NINJAGO,NINJAGO
+test,IDEA209,LEGO Ideas,Town
+test,CTY1770,Town,LEGO Brand
+test,CTY1772,Town,Town
+test,CTY1734,Town,Holiday & Event
+test,HP507,Harry Potter,Disney
+test,IDEA189,LEGO Ideas,LEGO Ideas
+test,TWN501,Town,Town
+test,IDEA207,LEGO Ideas,Town
+test,CTY1779,Town,Holiday & Event
+test,CTY1778,Town,Town
+test,SP144,Space,Space
+test,NJO0909,NINJAGO,NINJAGO
+test,NJO0900,NINJAGO,NINJAGO
+test,DRM067,DREAMZzz,Collectible Minifigures
+test,SH0941,Super Heroes,Super Heroes
+test,SH0992,Super Heroes,Super Heroes
+test,SW1325,Star Wars,Collectible Minifigures
+test,SW1364,Star Wars,Collectible Minifigures
+test,DIS168,Disney,Disney
+test,DIS161,Disney,Disney
+test,COLDND04,Collectible Minifigures,Collectible Minifigures
+test,47394PB353,DUPLO,DUPLO
+test,47205PB111,DUPLO,DUPLO
+test,47205PB113,DUPLO,DUPLO
+test,47394PB360,DUPLO,DUPLO
+test,47205PB117,DUPLO,DUPLO
+test,DUPMERMAID05,DUPLO,DUPLO
+test,DP190,Disney,Friends
+test,MIN188,Minecraft,Minecraft
+test,SH1000,Super Heroes,Super Heroes
+test,CTY1714,Town,Town
+test,CTY1716,Town,Town
+test,DP187,Disney,Friends
+test,BDP127,BrickLink Designer Program,BrickLink Designer Program
+test,CTY1809,Town,Town
+test,HP515,Harry Potter,Harry Potter
+test,FRND0670,Friends,Friends
+test,FRND0723,Friends,Friends
+test,FRND0708,Friends,Friends
+test,FRND0711,Friends,Friends
+test,FRND0721,Friends,Friends
+test,FRND0687,Friends,Friends
+test,FRND0732,Friends,Friends
+test,FRND0702,Friends,Friends
+test,FRND0696,Friends,Friends
+test,FRND0731,Friends,Friends
+test,FRND0724,Friends,Disney
+test,FRND0821,Friends,Friends
+test,FRND0739,Friends,Friends
+test,FRND0679,Friends,Friends
+test,FRND0688,Friends,Friends
+test,FRND0671,Friends,Friends
+test,FRND0684,Friends,Friends
+test,FRND0736,Friends,Friends
+test,IDEA212,LEGO Ideas,LEGO Ideas
+test,SH0935,Super Heroes,Super Heroes
+test,DIS157,Disney,Disney
+test,CTY1798,Town,Town
+test,HP475,Harry Potter,Harry Potter
+test,HP476,Harry Potter,Harry Potter
+test,CTY1808,Town,LEGO Ideas
+test,SH0995,Super Heroes,Town
+test,SW1375,Star Wars,Star Wars
+test,SW1326,Star Wars,Star Wars
+test,NJO0856,NINJAGO,NINJAGO
+test,NJO0882,NINJAGO,NINJAGO
+test,NJO0890,NINJAGO,NINJAGO
+test,SC115,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,MK140,Monkie Kid,Town
+test,SH0938,Super Heroes,Star Wars
+test,IDEA195,LEGO Ideas,LEGO Ideas
+test,DRM060,DREAMZzz,Collectible Minifigures
+test,SW1312,Star Wars,Star Wars
+test,HOL346,Holiday & Event,Town
+test,IDEA205,LEGO Ideas,LEGO Ideas
+test,HOL344,Holiday & Event,Holiday & Event
+test,SW1344,Star Wars,Star Wars
+test,DRM041,DREAMZzz,DREAMZzz
+test,DRM096,DREAMZzz,Collectible Minifigures
+test,MK173,Monkie Kid,Monkie Kid
+test,SC118,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,IDEA184,LEGO Ideas,NINJAGO
+test,MIN182,Minecraft,Minecraft
+test,MIN186,Minecraft,Minecraft
+test,DP198,Disney,Disney
+test,TWN506,Town,Town
+test,TWN505,Town,Town
+test,MK171,Monkie Kid,Monkie Kid
+test,MK172,Monkie Kid,Monkie Kid
+test,BDP104,BrickLink Designer Program,LEGO Ideas
+test,BDP100,BrickLink Designer Program,BrickLink Designer Program
+test,HP489,Harry Potter,DUPLO
+test,IDEA186,LEGO Ideas,DREAMZzz
+test,MAR0180,Super Mario,Super Mario
+test,HP472,Harry Potter,Harry Potter
+test,BDP142,BrickLink Designer Program,BrickLink Designer Program
+test,LOR137,The Hobbit and The Lord of the Rings,The Hobbit and The Lord of the Rings
+test,COL447,Collectible Minifigures,Super Heroes
+test,TWN507,Town,Town
+test,MK163,Monkie Kid,Monkie Kid
+test,MAR0186,Super Mario,Super Mario
+test,BDP147,BrickLink Designer Program,BrickLink Designer Program
+test,BDP144,BrickLink Designer Program,BrickLink Designer Program
+test,CTY1705,Town,Town
+test,MIN164,Minecraft,Minecraft
+test,HOL340,Holiday & Event,Town
+test,TWN494,Town,BrickLink Designer Program
+test,TWN493,Town,Town
+test,SW1387,Star Wars,Star Wars
+test,JW120,Jurassic World,DREAMZzz
+test,BDP136,BrickLink Designer Program,BrickLink Designer Program
+test,SH0943,Super Heroes,Super Heroes
+test,SH0955,Super Heroes,Super Heroes
+test,MIN200,Minecraft,Minecraft
+test,MIN160,Minecraft,Minecraft
+test,MIN161,Minecraft,Minecraft
+test,MIN170,Minecraft,Minecraft
+test,COLDND11,Collectible Minifigures,Collectible Minifigures
+test,CAS583,Castle,Castle
+test,BDP129,BrickLink Designer Program,LEGO Ideas
+test,COL433,Collectible Minifigures,DUPLO
+test,BDP124,BrickLink Designer Program,BrickLink Designer Program
+test,CTY1781,Town,Town
+test,DP195,Disney,Friends
+test,MAR0203,Super Mario,Super Mario
+test,HOL347,Holiday & Event,Town
+test,JW126,Jurassic World,Jurassic World
+test,NJO0906,NINJAGO,NINJAGO
+test,IDEA219,LEGO Ideas,Harry Potter
+test,DP228,Disney,Disney
+test,SH1045,Super Heroes,Super Heroes
+test,CTY1897,Town,Holiday & Event
+test,NJO0921,NINJAGO,NINJAGO
+test,SW1400,Star Wars,Star Wars
+test,SW1397,Star Wars,Star Wars
+test,DP215,Disney,Disney
+test,IDEA216,LEGO Ideas,Harry Potter
+test,HP533,Harry Potter,Harry Potter
+test,SH1051,Super Heroes,Town
+test,IDEA237,LEGO Ideas,BrickLink Designer Program
+test,SH1096,Super Heroes,Super Heroes
+test,SH1056,Super Heroes,Super Heroes
+test,SH1011,Super Heroes,Star Wars
+test,HOL406,Holiday & Event,Town
+test,SW1410,Star Wars,Star Wars
+test,COLSPI08,Collectible Minifigures,Super Heroes
+test,BDP148,BrickLink Designer Program,Town
+test,CTY1932,Town,Collectible Minifigures
+test,DP212,Disney,Disney
+test,IDEA227,LEGO Ideas,Space
+test,CTY1909,Town,Town
+test,DRM082,DREAMZzz,Collectible Minifigures
+test,HOL395,Holiday & Event,Town
+test,DRM092,DREAMZzz,DREAMZzz
+test,DRM077,DREAMZzz,NINJAGO
+test,SW1411,Star Wars,Star Wars
+test,HP534,Harry Potter,Star Wars
+test,CTY1860,Town,Town
+test,TWN521,Town,Harry Potter
+test,NJO0954,NINJAGO,Super Heroes
+test,CTY1908,Town,Town
+test,HP565,Harry Potter,Harry Potter
+test,JW137,Jurassic World,Super Heroes
+test,47205PB121,DUPLO,DUPLO
+test,47394PB370,DUPLO,DUPLO
+test,47394PB364,DUPLO,DUPLO
+test,47394PB362,DUPLO,DUPLO
+test,IDEA221,LEGO Ideas,LEGO Ideas
+test,HOL392,Holiday & Event,Holiday & Event
+test,HP545,Harry Potter,Harry Potter
+test,CTY1891,Town,Town
+test,IDEA247,LEGO Ideas,Town
+test,BDP167,BrickLink Designer Program,BrickLink Designer Program
+test,CTY1838,Town,SPEED CHAMPIONS
+test,CTY1882,Town,Town
+test,CTY1864,Town,Town
+test,CTY1867,Town,Town
+test,NJO0977,NINJAGO,NINJAGO
+test,90398PB063,Harry Potter,Harry Potter
+test,FRND0775,Friends,Friends
+test,FRND0801,Friends,Friends
+test,FRND0854,Friends,Friends
+test,FRND0791,Friends,Friends
+test,FRND0780,Friends,Friends
+test,FRND0805,Friends,Friends
+test,FRND0852,Friends,Friends
+test,FRND0845,Friends,Friends
+test,FRND0840,Friends,Friends
+test,FRND0817,Friends,Friends
+test,FRND0786,Friends,Disney
+test,FRND0795,Friends,Friends
+test,SW1430,Star Wars,Star Wars
+test,DP217,Disney,Disney
+test,SW1471,Star Wars,Star Wars
+test,BDP150,BrickLink Designer Program,Town
+test,BDP153,BrickLink Designer Program,BrickLink Designer Program
+test,SH1080,Super Heroes,Super Heroes
+test,HP588,Harry Potter,Harry Potter
+test,90398PB056,Harry Potter,Harry Potter
+test,MIN255,Minecraft,Minecraft
+test,HOL377,Holiday & Event,BrickLink Designer Program
+test,CAS591,Castle,Castle
+test,SH1043,Super Heroes,Super Heroes
+test,SW1420,Star Wars,Star Wars
+test,SW1462,Star Wars,Star Wars
+test,SW1477,Star Wars,Harry Potter
+test,SW1484,Star Wars,Star Wars
+test,TWN522,Town,Harry Potter
+test,SH1040,Super Heroes,Super Heroes
+test,SW1445,Star Wars,Star Wars
+test,CTY1905,Town,Town
+test,COL451,Collectible Minifigures,Collectible Minifigures
+test,SH1052,Super Heroes,Harry Potter
+test,SW1412,Star Wars,Star Wars
+test,NJO0925,NINJAGO,NINJAGO
+test,SC127,SPEED CHAMPIONS,SPEED CHAMPIONS
+test,BDP222,BrickLink Designer Program,BrickLink Designer Program
+test,NJO0978,NINJAGO,NINJAGO
+test,MAR0211,Super Mario,Super Mario
+test,DIS175,Disney,Disney
+test,BDP223,BrickLink Designer Program,Castle
+test,NJO0974,NINJAGO,NINJAGO
+test,DRM085,DREAMZzz,DREAMZzz
+test,COL455,Collectible Minifigures,Town
+test,NJO0927,NINJAGO,NINJAGO
+test,SW1453,Star Wars,Star Wars
+test,DIS181,Disney,Friends
+test,HOL372,Holiday & Event,Town
+test,HP559,Harry Potter,Harry Potter
+test,SH1062,Super Heroes,Jurassic World
+test,DRM068,DREAMZzz,Town
+test,BDP185,BrickLink Designer Program,BrickLink Designer Program
+test,BDP183,BrickLink Designer Program,BrickLink Designer Program
+test,MOA007,Disney,Disney
+test,NJO0955,NINJAGO,NINJAGO
+test,HOL376,Holiday & Event,Holiday & Event
+test,BDP246,BrickLink Designer Program,Town
+test,HP562,Harry Potter,Harry Potter
+test,HP569,Harry Potter,Harry Potter
+test,NJO0969,NINJAGO,NINJAGO
+test,MIN204,Minecraft,Minecraft
+test,CTY1929,Town,Town
+test,COLSPI10,Collectible Minifigures,Jurassic World
+test,MAR0220,Super Mario,Super Mario
+test,BDP256,BrickLink Designer Program,BrickLink Designer Program
+test,BDP254,BrickLink Designer Program,BrickLink Designer Program
+test,CTY1842,Town,Town
+test,CTY1914,Town,Town
+test,IDEA265,LEGO Ideas,Harry Potter
+test,BDP191,BrickLink Designer Program,BrickLink Designer Program
+test,BDP187,BrickLink Designer Program,BrickLink Designer Program
+test,IDEA226,LEGO Ideas,BrickLink Designer Program
+test,NJO0986,NINJAGO,NINJAGO
+test,NJO0941,NINJAGO,NINJAGO
+test,HP585,Harry Potter,Harry Potter
+test,LOR150,The Hobbit and The Lord of the Rings,BrickLink Designer Program
+test,CTY1857,Town,Town
+test,CAS593,Castle,Collectible Minifigures
+test,HP573,Harry Potter,Harry Potter
+test,BDP221,BrickLink Designer Program,BrickLink Designer Program
+test,MIN235,Minecraft,Minecraft
+test,CTY1870,Town,Town
+test,CTY1871,Town,Town
+test,NJO0983,NINJAGO,NINJAGO
+test,SH1034,Super Heroes,Super Heroes
+test,SH1027,Super Heroes,Super Heroes
+test,IDEA262,LEGO Ideas,LEGO Ideas
+test,MIN214,Minecraft,Minecraft
+test,MIN237,Minecraft,Minecraft
+test,SH1050,Super Heroes,Star Wars
+test,CTY1875,Town,LEGO Ideas
+test,JW132,Jurassic World,Collectible Minifigures
+test,BDP165,BrickLink Designer Program,Holiday & Event
+test,TWN510,Town,BrickLink Designer Program
+test,BDP240,BrickLink Designer Program,Town
+test,MIN224,Minecraft,Minecraft
+test,DRM079,DREAMZzz,DREAMZzz
+test,DP223,Disney,Super Mario
+test,MAR0222,Super Mario,Super Mario
+test,BDP194,BrickLink Designer Program,BrickLink Designer Program
+test,BDP202,BrickLink Designer Program,BrickLink Designer Program
+test,BDP200,BrickLink Designer Program,BrickLink Designer Program
+test,BDP199,BrickLink Designer Program,Town
+test,COL450,Collectible Minifigures,Collectible Minifigures
+test,DIS185,Disney,Disney
+test,NJO0984,NINJAGO,NINJAGO
+test,HOL370,Holiday & Event,Holiday & Event
+test,NJO0942,NINJAGO,NINJAGO
+test,NJO0939,NINJAGO,NINJAGO
+test,NJO0948,NINJAGO,NINJAGO
+test,DRM076,DREAMZzz,DREAMZzz
+test,SW1485,Star Wars,Star Wars
+test,CTY1959,Town,Town
+test,CTY1956,Town,Town
+test,NJO1035,NINJAGO,NINJAGO
+test,CTY1940,Town,Town
+test,NJO1030,NINJAGO,NINJAGO
+test,CTY1949,Town,Town
+test,FRND0875,Friends,Friends
+test,FRND0871,Friends,Friends
+test,FRND0866,Friends,Friends
+test,FRND0878,Friends,Friends
+test,NJO1049,NINJAGO,NINJAGO
+test,NJO0998,NINJAGO,NINJAGO
+test,NJO1041,NINJAGO,NINJAGO
+test,DRM114,DREAMZzz,DREAMZzz
+test,NJO1016,NINJAGO,NINJAGO
+test,NJO1025,NINJAGO,NINJAGO
+test,CTY1955,Town,LEGO Ideas
+test,MIN242,Minecraft,Minecraft
+test,DRM110,DREAMZzz,Holiday & Event
+test,DRM105,DREAMZzz,DREAMZzz
+test,HP600,Harry Potter,Harry Potter
+test,HP604,Harry Potter,Harry Potter
+test,NJO1002,NINJAGO,NINJAGO
+test,TWN537,Town,BrickLink Designer Program
+test,TWN538,Town,BrickLink Designer Program
+test,SH1105,Super Heroes,Super Heroes
+test,MIN256,Minecraft,Minecraft
+test,TWN540,Town,BrickLink Designer Program
+test,NJO0999,NINJAGO,NINJAGO
+test,NJO1039,NINJAGO,NINJAGO

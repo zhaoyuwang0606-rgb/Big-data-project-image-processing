@@ -1,0 +1,7 @@
+{
+  "model": "dinov2",
+  "features_dim": 771,
+  "test_accuracy": 0.8013186813186813,
+  "test_macro_f1": 0.7369356861369034,
+  "test_macro_auc": 0.9770404917482195
+}

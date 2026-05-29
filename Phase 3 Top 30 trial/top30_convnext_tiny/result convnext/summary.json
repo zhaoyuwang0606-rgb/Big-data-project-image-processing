@@ -1,0 +1,34 @@
+{
+  "model": "convnext_tiny",
+  "label_field": "category",
+  "num_classes": 30,
+  "best_epoch": 32,
+  "best_val_macro_f1": 0.8128730034113588,
+  "train": {
+    "loss": 0.6672607805670762,
+    "acc": 0.9931192660550459,
+    "macro_f1": 0.9908701310721723,
+    "auc_ovr_macro": 0.9999842161735938
+  },
+  "test": {
+    "loss": 1.1145187185870276,
+    "acc": 0.8528119507908611,
+    "macro_f1": 0.8133327383323237,
+    "auc_ovr_macro": 0.9741270797376758
+  },
+  "paths": {
+    "best_ckpt": "/kaggle/working/top30_convnext_tiny/best.pt",
+    "last_ckpt": "/kaggle/working/top30_convnext_tiny/last.pt",
+    "metrics_history": "/kaggle/working/top30_convnext_tiny/metrics_history.csv",
+    "label_map": "/kaggle/working/top30_convnext_tiny/label_map.json",
+    "cm_train": "/kaggle/working/top30_convnext_tiny/confusion_matrix_train.png",
+    "cm_train_norm": "/kaggle/working/top30_convnext_tiny/confusion_matrix_train_normalized.png",
+    "cm_test": "/kaggle/working/top30_convnext_tiny/confusion_matrix_test.png",
+    "cm_test_norm": "/kaggle/working/top30_convnext_tiny/confusion_matrix_test_normalized.png",
+    "pred_train": "/kaggle/working/top30_convnext_tiny/predictions_train.csv",
+    "pred_test": "/kaggle/working/top30_convnext_tiny/predictions_test.csv",
+    "loss_curves": "/kaggle/working/top30_convnext_tiny/loss_curves.png",
+    "heatmaps_dir": "/kaggle/working/top30_convnext_tiny/heatmaps_test_gradcam",
+    "heatmaps_manifest": "/kaggle/working/top30_convnext_tiny/heatmaps_test_gradcam/heatmaps_manifest.csv"
+  }
+}

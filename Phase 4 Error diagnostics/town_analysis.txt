@@ -1,0 +1,48 @@
+﻿=== Town category ===
+Total minifigs: 3522
+
+Subcategories (66 types):
+    539  Classic Town
+    525  City
+    425  General
+    380  City / Police
+    204  City / Fire
+    112  City / Space Exploration
+    111  City / Recreation
+    100  City / Construction
+     91  City / Airport
+     82  City / Race
+     64  City / Hospital
+     62  City / Coast Guard
+     59  City / Traffic
+     53  City / Arctic
+     51  Paradisa
+     51  City / Stuntz
+     37  City / Deep Sea Explorers
+     36  City / Harbor
+     35  Classic Town / Police
+     32  City / Jungle
+     30  City / Farm
+     28  Classic Town / Gas Station
+     25  Classic Town / Fire
+     25  Classic Town / Hospital
+     25  Classic Town / Airport
+
+Year range: 1978 - 2026
+
+=== Top 15 categories by size ===
+   3522  Town <-- TOWN
+   1496  Star Wars
+   1110  Super Heroes
+    987  DUPLO
+    944  NINJAGO
+    887  Friends
+    804  Collectible Minifigures
+    636  Harry Potter
+    543  Castle
+    383  Holiday & Event
+    375  Disney
+    272  LEGO Ideas
+    264  BrickLink Designer Program
+    253  Minecraft
+    252  Sports

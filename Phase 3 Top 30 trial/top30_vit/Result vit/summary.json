@@ -1,0 +1,34 @@
+{
+  "model": "vit_b_16",
+  "label_field": "category",
+  "num_classes": 30,
+  "best_epoch": 86,
+  "best_val_macro_f1": 0.7491475336787465,
+  "train": {
+    "loss": 0.6743912377008577,
+    "acc": 0.9914946483180428,
+    "macro_f1": 0.9897886281037175,
+    "auc_ovr_macro": 0.9999635585757097
+  },
+  "test": {
+    "loss": 1.3190486431121826,
+    "acc": 0.7926186291739895,
+    "macro_f1": 0.7327522329046335,
+    "auc_ovr_macro": 0.9620250006422102
+  },
+  "paths": {
+    "best_ckpt": "/kaggle/working/top30_resnet50_output/best.pt",
+    "last_ckpt": "/kaggle/working/top30_resnet50_output/last.pt",
+    "metrics_history": "/kaggle/working/top30_resnet50_output/metrics_history.csv",
+    "label_map": "/kaggle/working/top30_resnet50_output/label_map.json",
+    "cm_train": "/kaggle/working/top30_resnet50_output/confusion_matrix_train.png",
+    "cm_train_norm": "/kaggle/working/top30_resnet50_output/confusion_matrix_train_normalized.png",
+    "cm_test": "/kaggle/working/top30_resnet50_output/confusion_matrix_test.png",
+    "cm_test_norm": "/kaggle/working/top30_resnet50_output/confusion_matrix_test_normalized.png",
+    "pred_train": "/kaggle/working/top30_resnet50_output/predictions_train.csv",
+    "pred_test": "/kaggle/working/top30_resnet50_output/predictions_test.csv",
+    "loss_curves": "/kaggle/working/top30_resnet50_output/loss_curves.png",
+    "heatmaps_dir": "/kaggle/working/top30_resnet50_output/heatmaps_test_gradcam",
+    "heatmaps_manifest": "/kaggle/working/top30_resnet50_output/heatmaps_test_gradcam/heatmaps_manifest.csv"
+  }
+}

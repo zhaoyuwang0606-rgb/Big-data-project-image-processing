@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-04-26T11:27:31.154736+00:00",
+  "command": "python Phase 3 multimodel\\Step 2 ML classifier\\train_xgboost.py --model vit_b_16 --top-k 30 --load-params Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit\\vit_b_16\\best_hyperparameters.json --out-dir Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit",
+  "args": {
+    "model": "vit_b_16",
+    "embeddings_root": "Phase 3 multimodel/Step 1 embedding",
+    "metadata": "metadata.json",
+    "train_json": "Phase 2 spliting/split_metadata_threshold100_seed25_70_15_15_train.json",
+    "val_json": "Phase 2 spliting/split_metadata_threshold100_seed25_70_15_15_val.json",
+    "test_json": "Phase 2 spliting/split_metadata_threshold100_seed25_70_15_15_test.json",
+    "out_dir": "Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit",
+    "top_k": 30,
+    "tune": false,
+    "n_trials": 30,
+    "load_params": "Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit\\vit_b_16\\best_hyperparameters.json"
+  },
+  "cwd": "C:\\Users\\22984\\Desktop\\Leuven slide\\Big data\\Assigment 2",
+  "generated_outputs": [
+    "Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit\\vit_b_16\\label_map.json",
+    "Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit\\vit_b_16\\test_metrics.json",
+    "Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit\\vit_b_16\\confusion_matrix.png",
+    "Phase 3 multimodel\\Step 2 ML classifier\\results\\xgb_vit\\vit_b_16\\xgb_model.ubj"
+  ]
+}

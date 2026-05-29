@@ -1,0 +1,7 @@
+{
+  "model": "clip",
+  "features_dim": 771,
+  "test_accuracy": 0.8136263736263736,
+  "test_macro_f1": 0.7521572517086559,
+  "test_macro_auc": 0.9810838667218346
+}

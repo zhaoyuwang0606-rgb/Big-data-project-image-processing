@@ -1,0 +1,20 @@
+=== 2026-04-26T12:20:20.641511+00:00 ===
+cwd: .
+command: python light-convext/top30_train_and_eval_v2.py --train-json "big-dataa/Phase 2 spliting/split_metadata_threshold100_seed25_70_15_15_train.json" --val-json "big-dataa/Phase 2 spliting/split_metadata_threshold100_seed25_70_15_15_val.json" --test-json "big-dataa/Phase 2 spliting/split_metadata_threshold100_seed25_70_15_15_test.json" --image-root big-dataa/images/images --out-dir ../../../working/top30_convnext_tiny --model convnext_tiny --label-field category_grouped_threshold_100 --epochs 500 --freeze-epochs 5 --batch-size 128 --lr 0.0003 --weight-decay 0.05 --seed 25 --num-workers 2
+outputs:
+- ../../../working/top30_convnext_tiny/run.log
+- ../../../working/top30_convnext_tiny/label_map.json
+- ../../../working/top30_convnext_tiny/metrics_history.csv
+- ../../../working/top30_convnext_tiny/best.pt
+- ../../../working/top30_convnext_tiny/last.pt
+- ../../../working/top30_convnext_tiny/summary.json
+- ../../../working/top30_convnext_tiny/confusion_matrix_train.png
+- ../../../working/top30_convnext_tiny/confusion_matrix_train_normalized.png
+- ../../../working/top30_convnext_tiny/confusion_matrix_test.png
+- ../../../working/top30_convnext_tiny/confusion_matrix_test_normalized.png
+- ../../../working/top30_convnext_tiny/predictions_train.csv
+- ../../../working/top30_convnext_tiny/predictions_test.csv
+- ../../../working/top30_convnext_tiny/loss_curves.png
+- ../../../working/top30_convnext_tiny/heatmaps_test_gradcam/heatmaps_manifest.csv
+- ../../../working/top30_convnext_tiny/heatmaps_test_gradcam
+

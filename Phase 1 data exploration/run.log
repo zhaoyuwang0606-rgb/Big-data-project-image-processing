@@ -1,0 +1,10 @@
+=== 2026-03-21T01:10:11.851784+00:00 ===
+cwd: .
+command: python "Phase 1 data exploration\phase1_category_eda_and_grouping.py" --metadata-json metadata.json --out-dir "Phase 1 data exploration" --threshold 100 --other-label Other --topk-plot 30
+outputs:
+- Phase 1 data exploration\category_counts.csv
+- Phase 1 data exploration\category_histogram.png
+- Phase 1 data exploration\category_counts_grouped_threshold_100.csv
+- Phase 1 data exploration\category_grouped_threshold_100_histogram.png
+- Phase 1 data exploration\metadata_category_grouped_threshold_100.csv
+

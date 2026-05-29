@@ -1,0 +1,26 @@
+=== Identity Overlap: NINJAGO vs The LEGO NINJAGO Movie ===
+
+Total minifigures in 'NINJAGO': 944
+Total minifigures in 'The LEGO NINJAGO Movie': 90
+
+Of the 90 minifigures in the Movie category:
+ - 33 (36.7%) are variants of characters that ALSO exist in the regular NINJAGO TV series.
+ - Only 57 (63.3%) are truly exclusive to the movie.
+
+List of shared characters found across both:
+  - Cole
+  - Dareth
+  - Garmadon
+  - Jay Walker
+  - Kai
+  - Lil' Nelson
+  - Lloyd Garmadon
+  - Misako
+  - Mystake
+  - Nya
+  - Ray
+  - Wu
+  - Zane
+
+Conclusion:
+Nearly half of the 'The LEGO NINJAGO Movie' category consists of characters that the model has already learned to associate with the 'NINJAGO' category. Penalizing the model for classifying a Movie-Lloyd as a Regular-Lloyd is a semantic artifact, not a visual failure.

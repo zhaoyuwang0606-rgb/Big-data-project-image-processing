@@ -1,0 +1,7 @@
+{
+  "model": "vit_b_16",
+  "features_dim": 771,
+  "test_accuracy": 0.7674725274725275,
+  "test_macro_f1": 0.6910967374951557,
+  "test_macro_auc": 0.9768908117064766
+}
