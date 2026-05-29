@@ -1,81 +1,196 @@
-# LEGO Minifigures Image Classification & Error Diagnostics
+# Deep Learning on Images: Classification and Error Diagnostics of LEGO Minifigures
 
 ## Overview
 
-This project develops a deep learning pipeline to classify LEGO minifigures into the 30 most frequent categories. Beyond optimizing accuracy, it investigates **why** certain classifications fail through multimodal analysis and Grad-CAM diagnostics.
+This repository contains the code, analysis, and diagnostic tools for a LEGO minifigure image classification project. The task is to classify web-scraped LEGO minifigure images into the 30 most frequent categories using deep learning, multimodal feature fusion, ensemble learning, and error diagnostics.
 
-**Key Insight:** Most misclassifications stem from semantic ambiguity and label noise in LEGO's official taxonomy—not computer vision limitations.
+The project does not only focus on improving predictive performance. It also investigates why certain classes are difficult to classify. In particular, the diagnostic analysis suggests that many remaining misclassifications are associated with semantic ambiguity, visually overlapping LEGO themes, and potential label noise in the official LEGO commercial taxonomy.
 
-### Results
-- **Test Accuracy:** 89.1%
-- **Test Macro-F1:** 85.6%
+This project was completed as part of **Assignment 2: Deep Learning on Images** for the Advanced Data Science and Deep Learning coursework.
 
 ## Repository Structure
 
-```
-├── Phase 1 data exploration/      # EDA and category overlap analysis
-├── Phase 2 splitting/             # Train/Val/Test stratification (70/15/15)
-├── Phase 3 Top 30 trial/          # Base models: ConvNeXt, ResNet, ViT
-├── Phase 3 multimodel/            # Multimodal embeddings (CLIP, DINOv2) + XGBoost
-├── Phase 3 ensemble/              # Weighted ensemble + Test-Time Augmentation
-├── Phase 4 Error diagnostics/     # Grad-CAM & semantic ambiguity analysis
-├── Phase 5 Presentation Assets/   # Visualizations and confusion matrices
-├── Assignment2_Final_Report.pdf   # Complete academic report
-└── README.md
-```
+The repository is organized chronologically to reflect the main research pipeline:
 
-## Methodology
-
-1. **Base Models:** Fine-tune ConvNeXt-Tiny, ResNet-50, ViT-B/16
-2. **Multimodal Fusion:** Extract embeddings from foundation models (CLIP, DINOv2), combine with metadata, classify via XGBoost
-3. **Ensemble & TTA:** Weighted ensemble + 8-crop test-time augmentation for robust predictions
-
-## Quick Start
-
-**Note:** Requires the original image dataset, metadata files, and embeddings placed in the project root.
-
-```bash
-# Train/evaluate a base model
-python "Phase 3 Top 30 trial/top30_train_and_eval_v2.py"
-
-# Run final ensemble with TTA
-python "Phase 3 ensemble/ensemble_top30.py" --tta --tta-n 8
-
-# Generate Grad-CAM visualizations
-python "Phase 4 Error diagnostics/extract_misclassified_attention.py"
+```text
+├── Phase 1 data exploration/      # Exploratory data analysis and category overlap checks
+├── Phase 2 splitting/             # Train/validation/test stratification scripts
+├── Phase 3 Top 30 trial/          # Training and evaluation scripts for base vision models
+├── Phase 3 multimodel/            # Feature extraction and multimodal late-fusion models
+├── Phase 3 ensemble/              # Final model ensembling and test-time augmentation
+├── Phase 4 Error diagnostics/     # Grad-CAM, misclassification analysis, and semantic diagnostics
+├── Phase 5 Presentation Assets/   # Final visualizations, heatmaps, and confusion matrices
+├── Assignment2_Final_Report.pdf   # Final academic report
+└── README.md                      # Project documentation
 ```
 
 ## Dataset
 
-The dataset comprises web-scraped LEGO minifigure images with metadata (identifiers, release year, commercial category).
+The dataset consists of web-scraped LEGO minifigure images and accompanying metadata. The metadata includes information such as minifigure identifiers, release year, estimated value, and commercial category labels.
 
-**Challenges:**
-- Visually similar minifigures across categories
-- Overlapping NINJAGO-related labels
-- Broad categories (Town, Holiday & Event)
-- Potential label noise in LEGO's taxonomy
+The classification task is restricted to the top 30 most frequent categories in order to reduce the extreme long-tail structure of the original dataset while keeping the task sufficiently challenging.
 
-**Availability:** Raw images, embedding files (.npz), and model weights (.pt) are **not included** due to file size constraints and academic integrity policies. Full reproduction requires the original dataset or equivalent reconstruction.
+The dataset contains several sources of classification difficulty:
 
-## Key Findings
+- visually similar minifigures across different categories;
+- overlapping franchise-related labels, such as NINJAGO-related categories;
+- broad commercial categories such as Town or Holiday & Event;
+- potential label noise caused by LEGO's official commercial taxonomy rather than purely visual differences.
 
-| Category Type | Performance | Notes |
-|---|---|---|
-| Visually Distinctive | High recall | Minecraft, DUPLO, Fabuland, NEXO KNIGHTS |
-| Visually Similar | Lower recall | NINJAGO variants, LEGO Brand, Holiday & Event |
+### Dataset Availability
 
-Grad-CAM analysis shows models focus on meaningful regions (head, torso, accessories) rather than background noise.
+The raw image dataset (images/), large embedding files (.npz), and trained model weights (.pt) are not included in this GitHub repository due to file size constraints.
+
+As a result, cloning this repository alone is not sufficient to reproduce the full pipeline from scratch. Full execution requires access to the original dataset or a reconstructed version following the documented data collection and preprocessing steps.
+
+However, the repository includes the source code, methodology, model configuration, evaluation scripts, diagnostic tools, and reported results. Therefore, the workflow and analytical procedure remain documented and reproducible once the required data files are available.
+
+## Methodology
+
+The project follows an end-to-end image classification pipeline:
+
+### Data Exploration
+The metadata and category distributions were analyzed to identify long-tail class imbalance, overlapping categories, and potential sources of ambiguity.
+
+### Dataset Splitting
+A stratified 70/15/15 train-validation-test split was used to preserve class distributions across the three subsets.
+
+### Base Deep Learning Models
+Several pretrained computer vision architectures were fine-tuned for the 30-class classification task.
+
+### Multimodal Late Fusion
+Visual embeddings from pretrained foundation models were combined with selected non-leaky metadata features. XGBoost classifiers were then trained on these fused representations.
+
+### Weighted Ensemble
+Predictions from multiple models were combined using validation-tuned weighted averaging.
+
+### Error Diagnostics
+Confusion matrices, metadata cross-checks, and Grad-CAM visualizations were used to investigate the structure of remaining errors.
+
+## Models
+
+The project evaluates several model families:
+
+### Base Computer Vision Models
+- ResNet-50
+- ViT-B/16
+- ConvNeXt-Tiny
+
+These models were fine-tuned using image transformations, validation monitoring, and macro-F1-based evaluation.
+
+### Embedding-Based Models
+
+Visual embeddings were extracted using pretrained representation models, including:
+
+- CLIP
+- DINOv2
+- ResNet-based embeddings
+- ViT-based embeddings
+
+These embeddings were combined with selected metadata features and classified using XGBoost.
+
+### Ensemble Model
+
+The final ensemble combines predictions from several base and embedding-based models using validation-optimized weights. The ensemble is designed to reduce dependence on a single model architecture and improve robustness across visually diverse classes.
+
+## Evaluation
+
+The main evaluation metrics are:
+
+- accuracy;
+- macro-F1 score;
+- per-class precision, recall, and F1-score;
+- confusion matrices;
+- Grad-CAM visual diagnostics.
+
+Macro-F1 is emphasized because the classification task contains class imbalance and some categories are substantially harder to distinguish than others.
+
+## Results
+
+The final weighted ensemble achieved approximately:
+
+- Test accuracy: 0.891
+- Test macro-F1: 0.856
+
+The best performance was observed for visually distinctive categories, such as Minecraft, DUPLO, Fabuland, and NEXO KNIGHTS.
+
+Lower recall was observed for categories with stronger semantic or visual overlap, including NINJAGO-related categories, LEGO Brand, LEGO Ideas, and Holiday & Event.
+
+The diagnostic analysis suggests that many remaining errors are linked to overlapping commercial categories, ambiguous labels, and visually similar minifigure designs. Grad-CAM visualizations indicate that the models often focused on meaningful figure regions, such as the head, torso, legs, and accessories, rather than irrelevant background areas.
+
+## How to Run
+
+The following commands assume that the required image dataset, metadata files, model weights, and embedding files are placed in the expected project directories.
+
+### Run base model training or evaluation
+```bash
+python "Phase 3 Top 30 trial/top30_train_and_eval_v2.py"
+```
+
+### Run the final ensemble with test-time augmentation
+```bash
+python "Phase 3 ensemble/ensemble_top30.py" --tta --tta-n 8
+```
+
+### Generate Grad-CAM heatmaps for misclassified examples
+```bash
+python "Phase 4 Error diagnostics/extract_misclassified_attention.py"
+```
+
+Exact paths may need to be adjusted depending on the local directory structure and dataset location.
 
 ## Dependencies
 
-```
-Python 3.10+
-PyTorch & torchvision
-scikit-learn, XGBoost
-NumPy, pandas, Pillow, matplotlib
-```
+The main dependencies include:
+
+- Python 3.10+
+- PyTorch
+- torchvision
+- scikit-learn
+- XGBoost
+- NumPy
+- pandas
+- matplotlib
+- Pillow
+- tqdm
+
+A virtual environment is recommended for reproducing the experiments.
+
+## Reproducibility Notes
+
+Random seeds were fixed where possible, including the dataset splitting procedure. The main split used seed=25.
+
+However, exact reproducibility may still vary slightly depending on:
+
+- GPU hardware;
+- CUDA version;
+- PyTorch version;
+- nondeterministic deep learning operations;
+- availability of the original image dataset and intermediate embedding files.
+
+The train-validation-test split should be kept fixed when reproducing the reported results.
+
+## Limitations
+
+Several limitations should be noted:
+
+### Dataset Availability
+The raw image dataset and large intermediate files are not included in the repository due to file size constraints.
+
+### Commercial Taxonomy Ambiguity
+Some official LEGO categories are not visually or semantically clean. This creates cases where two categories may contain highly similar or even overlapping characters.
+
+### Class Imbalance
+Although the project focuses on the top 30 categories, class frequency imbalance remains present.
+
+### Model Interpretability
+Grad-CAM provides useful visual diagnostics, but it should be interpreted as supporting evidence rather than a strict causal explanation of model decisions.
+
+### Reproducibility Constraints
+Full reproduction requires access to the original images, metadata, and in some cases large intermediate files such as embeddings and trained weights.
 
 ## Author
 
-**Zhaoyu Wang**  
-Advanced Data Science and Deep Learning (Assignment 2)
+**Zhaoyu Wang**
+
+University coursework project for Advanced Data Science and Deep Learning.
