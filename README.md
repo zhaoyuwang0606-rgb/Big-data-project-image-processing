@@ -6,7 +6,6 @@ This repository contains the code, analysis, and diagnostic tools for a LEGO min
 
 The project does not only focus on improving predictive performance. It also investigates why certain classes are difficult to classify. In particular, the diagnostic analysis suggests that many remaining misclassifications are associated with semantic ambiguity, visually overlapping LEGO themes, and potential label noise in the official LEGO commercial taxonomy.
 
-This project was completed as part of **Assignment 2: Deep Learning on Images** for the Advanced Data Science and Deep Learning coursework.
 
 ## Repository Structure
 
@@ -193,4 +192,3 @@ Full reproduction requires access to the original images, metadata, and in some 
 
 **Zhaoyu Wang**
 
-University coursework project for Advanced Data Science and Deep Learning.
