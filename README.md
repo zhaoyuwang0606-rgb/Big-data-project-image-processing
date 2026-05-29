@@ -19,7 +19,6 @@ The repository is organized chronologically to reflect the main research pipelin
 ├── Phase 3 ensemble/              # Final model ensembling and test-time augmentation
 ├── Phase 4 Error diagnostics/     # Grad-CAM, misclassification analysis, and semantic diagnostics
 ├── Phase 5 Presentation Assets/   # Final visualizations, heatmaps, and confusion matrices
-├── Assignment2_Final_Report.pdf   # Final academic report
 └── README.md                      # Project documentation
 ```
 
